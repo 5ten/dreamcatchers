@@ -13,7 +13,6 @@ prose:
         - {name: Default, value: page.html}
         - {name: Success Stories, value: success_stories.html}
         - {name: Donate, value: donate.html}
-        - {name: Page4, value: page4.html}
         placeholder: Choose one
       name: layout
     - field: {element: hidden, value: pages}
