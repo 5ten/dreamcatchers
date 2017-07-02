@@ -1,7 +1,7 @@
 ---
 collection: pages
 published: true
-order: 2
+order: 1
 title: Programs
 layout: page.html
 teaser: >-

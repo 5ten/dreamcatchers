@@ -1,7 +1,7 @@
 ---
 collection: pages
 published: true
-order: 4
+order: 3
 title: Success Stories
 layout: success_stories.html
 ---

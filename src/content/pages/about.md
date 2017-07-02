@@ -1,7 +1,7 @@
 ---
 collection: pages
 published: true
-order: 1
+order: 4
 title: About Us
 layout: page.html
 ---

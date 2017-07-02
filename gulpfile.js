@@ -151,15 +151,17 @@ gulp.task('metalsmith', function() {
 
         collections({
           pages: {
+            pattern: 'content/pages/*.md',
             sortBy: 'order'
           },
-          projects: {
-            sortBy: 'order',
-            pattern: '/projects/*.md',
+          outcomes: {
+            pattern: 'content/outcomes/*.md',
+            sortBy: 'year'
           },
-          news: {
-            pattern: '/news/*.md',
-          }          
+          successes: {
+            pattern: 'content/successes/*.md',
+            sortBy: 'date'
+          }
         }),
 
         include({
@@ -172,7 +174,7 @@ gulp.task('metalsmith', function() {
           collections: {
             projects: {
               output: {
-                path: 'json-indexes/projects.json',
+                path: 'json-indexes/pages.json',
                 asObject: true,
                 metadata: {
                   "type": "list"
@@ -182,7 +184,7 @@ gulp.task('metalsmith', function() {
             },
             news: {
               output: {
-                path: 'json-indexes/news.json',
+                path: 'json-indexes/outcomes.json',
                 asObject: true,
                 metadata: {
                   "type": "list"
@@ -192,7 +194,7 @@ gulp.task('metalsmith', function() {
             },
             pages: {
               output: {
-                path: 'json-indexes/pages.json',
+                path: 'json-indexes/successes.json',
                 asObject: true,
                 metadata: {
                   "type": "list"
@@ -223,8 +225,8 @@ gulp.task('jsonpages', function() {
   return gulp.src(
       [
         'src/content/pages/*.md',
-        'src/content/projects/*.md',
-        'src/content/news/*.md'
+        'src/content/outcomes/*.md',
+        'src/content/successes/*.md'
       ]
     )
     .pipe(metalsmith({
@@ -250,7 +252,7 @@ gulp.task('jsonindexes', function() {
         tojson({
             outputPath: 'json',
             createIndexes : true,
-            indexPaths : ['/projects', '/news', '/pages'],
+            indexPaths : ['/pages', '/outcomes', '/successes'],
             onlyOutputIndex : true
         }),
       ]
