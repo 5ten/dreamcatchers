@@ -3,6 +3,7 @@ collection: pages
 published: true
 order: 0
 title: Success Stories
+layout: success_stories.html
 ---
 ## Successes and Outcomes
 Lorem ipsum dolor sit amet, consectetuer adipisc
