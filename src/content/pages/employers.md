@@ -1,7 +1,7 @@
 ---
 collection: pages
 published: true
-order: 0
+order: 3
 title: Employers
 layout: page.html
 ---
