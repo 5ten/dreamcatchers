@@ -12,7 +12,7 @@ prose:
         options:
         - {name: Default, value: page.html}
         - {name: Success Stories, value: success_stories.html}
-        - {name: Page3, value: page3.html}
+        - {name: Donate, value: donate.html}
         - {name: Page4, value: page4.html}
         placeholder: Choose one
       name: layout
