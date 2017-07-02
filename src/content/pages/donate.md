@@ -1,7 +1,7 @@
 ---
 collection: pages
 published: true
-order: 0
+order: 5
 title: Donate
 layout: donate.html
 ---
