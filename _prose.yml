@@ -68,7 +68,7 @@ prose:
     - field: {false: 'false', true: 'true', value: true, label: Published, help: Uncheck
           to make this post hidden., element: checkbox}
       name: published
-    - field: {element: textarea, label: Meta Description
+    - field: {element: textarea, label: Meta Description}
       name: meta_description
     - field: {element: textarea, label: Meta Keywords}
       name: meta_keywords  
