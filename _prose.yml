@@ -10,7 +10,7 @@ prose:
         element: select
         label: Select a template
         options:
-        - {name: Page, value: page.html}
+        - {name: Default, value: page.html}
         - {name: Page2, value: page2.html}
         - {name: Page3, value: page3.html}
         - {name: Page4, value: page4.html}
@@ -26,9 +26,6 @@ prose:
       name: order
     - field: {element: textarea, label: Teaser}
       name: teaser
-    - field: {element: text, help: 'After uploading the image to the body, paste the
-          url here.', label: Image}
-      name: image
     # src/content/pages/home.md:
     # - field:
     #     element: multiselect
