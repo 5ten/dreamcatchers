@@ -11,7 +11,7 @@ prose:
         label: Select a template
         options:
         - {name: Default, value: page.html}
-        - {name: Page2, value: page2.html}
+        - {name: Success Stories, value: success_stories.html}
         - {name: Page3, value: page3.html}
         - {name: Page4, value: page4.html}
         placeholder: Choose one

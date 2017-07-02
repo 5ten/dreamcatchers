@@ -4,8 +4,11 @@ metalsmith static site, content editing by prose.5ten.co.  static content JSON A
 - npm i
 - gulp
 - edit gulpfile, add your collections
-- delete test pages (leave home.md alone), projects and news, leaving one blank test.md file in each folder
 - make folders that match your new collection names
+- delete test pages (leave home.md alone), projects and news, leaving one blank test.md file in each folder
 - make _prose.yml fields for your collections and/or pages
+- push to github
+- go to prose.5ten.co, and add your top level pages
 - code layouts
 - write scss
+- deploy to netlify
