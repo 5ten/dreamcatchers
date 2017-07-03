@@ -9,7 +9,7 @@ layout: success_stories.html
 Lorem ipsum dolor sit amet, consectetuer adipisc
 ing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 
-<div id="outcomes"></div>
+[Outcomes](/2015)
 
 [Client Quote]
 
