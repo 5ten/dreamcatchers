@@ -13,7 +13,7 @@ ing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliqua
 
 [Client Quote]
 
-<div id="success_stories"></div>
+<div id="success-stories"></div>
 
 [Client Quote]
 
