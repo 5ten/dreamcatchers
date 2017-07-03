@@ -1,8 +1,8 @@
 ---
-name: home
+name: Home
 title: 
 layout: home.html
 include:
-  home: content/pages/home
+  homecontent: content/pages/home
 ---
 

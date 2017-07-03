@@ -27,15 +27,21 @@ prose:
       name: meta_description
     - field: {element: textarea, label: Meta Keywords}
       name: meta_keywords  
-    # src/content/pages/home.md:
-    # - field:
-    #     element: multiselect
-    #     label: Add Tags
-    #     options:
-    #     - {name: Apples, value: apples}
-    #     - {name: Bananas, value: bananas}
-    #     placeholder: Choose one
-    #   name: tags
+    src/content/pages/home.md:
+    - field: {element: textarea, label: Meta Description}
+      name: meta_description
+    - field: {element: textarea, label: Meta Keywords}
+      name: meta_keywords  
+    - field: {element: text, label: Spotlight Item Title}
+      name: spotlight_item_title
+    - field: {element: textarea, label: Spotlight Item Body}
+      name: spotlight_item_body
+    - field: {element: text, label: Spotlight Item Link}
+      name: spotlight_item_link
+    - field: {element: text, label: About Dreamcatchers Title}
+      name: about_dreamcatchers_title
+    - field: {element: textarea, label: About Dreamcatchers Body}
+      name: about_dreamcatchers_body
     src/content/outcomes:
     - field: {element: text, label: Title}
       name: title

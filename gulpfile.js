@@ -156,7 +156,8 @@ gulp.task('metalsmith', function() {
           },
           outcomes: {
             pattern: 'content/outcomes/*.md',
-            sortBy: 'year'
+            sortBy: 'year',
+            reverse: true
           },
           successes: {
             pattern: 'content/successes/*.md',
@@ -164,9 +165,7 @@ gulp.task('metalsmith', function() {
           }
         }),
 
-        include({
-          deletePartials: true
-        }),
+        include(),
 
         markdown(),
 

@@ -29,7 +29,7 @@
 body {
   @extend %regular;
   line-height:1.35;
-  color:$c-gray;
+  // color:$c-gray;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -57,24 +57,24 @@ h6, .h6
 
 }
 
-h1, .h1 {
-  font-size:2rem;
-  @include media('small-screen') {
-    font-size:5rem;
-  }
-}
-h2, .h2 {
-  font-size:2rem;
-  @include media('small-screen') {
-    font-size:5rem;
-  }  
-}
-h3, .h3 {
-  font-size:2rem;
-  @include media('small-screen') {
-    font-size:3rem;
-  }  
-}
+// h1, .h1 {
+//   font-size:2rem;
+//   @include media('small-screen') {
+//     font-size:5rem;
+//   }
+// }
+// h2, .h2 {
+//   font-size:2rem;
+//   @include media('small-screen') {
+//     font-size:5rem;
+//   }  
+// }
+// h3, .h3 {
+//   font-size:2rem;
+//   @include media('small-screen') {
+//     font-size:3rem;
+//   }  
+// }
 
 p, .p {
   margin:0 0 1rem 0;
