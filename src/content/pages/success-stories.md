@@ -11,7 +11,7 @@ ing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliqua
 
 [Client Quote]
 
-[Success Stories]
+<div id="success_stories"></div>
 
 [Client Quote]
 
