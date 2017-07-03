@@ -4,13 +4,10 @@
 </div>
 <main>
 
+    <div class="slideshow"></div>
+
     {{{contents}}}
 
-	{{#if outcomes}}
-		{{#each_upto outcomes 1}}
-			<a id="outcomes-button" href="/{{path}}">Outcomes</a>
-		{{/each_upto}}
-	{{/if}}
 
 	{{#if successes}}
 		<ul id="successes-data">

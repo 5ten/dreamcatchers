@@ -25,13 +25,13 @@ prose:
       name: order
     - field: {element: textarea, label: Meta Description}
       name: meta_description
-    - field: {element: textarea, label: Meta Keywords}
-      name: meta_keywords  
+    - field: {element: textarea, label: Meta Title}
+      name: meta_title  
     src/content/pages/home.md:
     - field: {element: textarea, label: Meta Description}
       name: meta_description
-    - field: {element: textarea, label: Meta Keywords}
-      name: meta_keywords  
+    - field: {element: textarea, label: Meta Title}
+      name: meta_title  
     - field: {element: text, label: Spotlight Item Title}
       name: spotlight_item_title
     - field: {element: textarea, label: Spotlight Item Body}
@@ -56,8 +56,8 @@ prose:
       name: published
     - field: {element: textarea, label: Meta Description}
       name: meta_description
-    - field: {element: textarea, label: Meta Keywords}
-      name: meta_keywords  
+    - field: {element: textarea, label: Meta Title}
+      name: meta_title  
     - field: {api_key: 0000000000000000, cloud_name: cloudnamehere, element: cloudinary,
         help: Select an image here and it will be directly uploaded to Cloudinary,
         label: Image, upload_preset: aaaaaaaaaa}
@@ -78,8 +78,8 @@ prose:
       name: published
     - field: {element: textarea, label: Meta Description}
       name: meta_description
-    - field: {element: textarea, label: Meta Keywords}
-      name: meta_keywords  
+    - field: {element: textarea, label: Meta Title}
+      name: meta_title  
     - field: {api_key: 0000000000000000, cloud_name: cloudnamehere, element: cloudinary,
         help: Select an image here and it will be directly uploaded to Cloudinary,
         label: Image, upload_preset: aaaaaaaaaa}

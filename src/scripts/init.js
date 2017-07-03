@@ -63,6 +63,8 @@
             });
         });
 
+        $('#successes-data').insertAfter($('#success-stories'));
+
 	/* end initialize */
 	});
 })(jQuery);

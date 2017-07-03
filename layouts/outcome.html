@@ -5,5 +5,13 @@
 </div>
 <main>
     {{{contents}}}
+
+    {{#if outcomes}}
+		{{#each outcomes}}
+			<a id="outcomes-button" href="/{{path}}">{{title}}</a>
+		{{/each}}
+	{{/if}}
+
+
 </main>
 {{> footer}}

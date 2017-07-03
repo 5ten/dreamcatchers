@@ -1,5 +1,23 @@
 {{> header}} 
 <main>
-    {{{homecontent}}}
+    
+    <div class="slideshow"></div>
+
+    <div class="introduction">
+        {{{contents}}}
+        <a class="button" href="/programs">Programs</a>
+    </div>
+
+    <div class="buttons">
+        <a href="/employers">For Employers</a>
+        <a href="/success_stories">Success Stories &amp; Outcomes</a>
+    </div>
+
+    <div class="spotlight">
+        <h3>{{spotlight_item_title}}</h3>
+        <p>{{spotlight_item_body}}</p>
+        <a class="read-more" href="{{spotlight_item_link}}">Read More</a>
+    </div>
+
 </main>
 {{> footer}}
