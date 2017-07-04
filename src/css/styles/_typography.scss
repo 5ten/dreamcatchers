@@ -51,10 +51,9 @@ h4, .h4,
 h5, .h5,
 h6, .h6
  {
-  @extend %heading;
-  margin:0 0 .15em 0;
-  line-height:1;
-
+  // @extend %heading;
+  // margin:0 0 .15em 0;
+  // line-height:1;
 }
 
 // h1, .h1 {
