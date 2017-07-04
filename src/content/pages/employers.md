@@ -2,7 +2,7 @@
 collection: pages
 published: true
 order: 2
-title: Employers
+title: For Employers
 layout: page.html
 ---
 ## For Employers
