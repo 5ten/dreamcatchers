@@ -2,7 +2,7 @@
 collection: pages
 published: true
 order: 1
-title: Programs
+title: Our Programs
 layout: page.html
 ---
 ## Our Programs
