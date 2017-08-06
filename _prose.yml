@@ -42,10 +42,6 @@ prose:
       name: slider_button_text
     - field: {element: text, label: Slider Button Link}
       name: slider_button_link
-    - field: {element: textarea, label: Spotlight Item Body}
-      name: spotlight_item_body
-    - field: {element: text, label: Spotlight Item Link}
-      name: spotlight_item_link
     - field: {element: text, label: About Dreamcatchers Title}
       name: about_dreamcatchers_title
     - field: {element: textarea, label: About Dreamcatchers Body}
@@ -54,6 +50,12 @@ prose:
       name: about_dreamcatchers_link_text
     - field: {element: text, label: About Dreamcatchers Link}
       name: about_dreamcatchers_link
+    - field: {element: text, label: Spotlight Item Title}
+      name: spotlight_item_title
+    - field: {element: textarea, label: Spotlight Item Body}
+      name: spotlight_item_body
+    - field: {element: text, label: Spotlight Item Link}
+      name: spotlight_item_link
     - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
         help: Select an image to upload,
         label: Footer Image, upload_preset: dreamcatchers}
