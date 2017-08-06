@@ -32,8 +32,16 @@ prose:
       name: meta_description
     - field: {element: textarea, label: Meta Title}
       name: meta_title  
-    - field: {element: text, label: Spotlight Item Title}
-      name: spotlight_item_title
+    - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
+        help: Select an image to upload,
+        label: Slider Image, upload_preset: dreamcatchers}
+      name: slider_image
+    - field: {element: text, label: Slider Title}
+      name: slider_title
+    - field: {element: text, label: Slider Button Text}
+      name: slider_button_text
+    - field: {element: text, label: Slider Button Link}
+      name: slider_button_link
     - field: {element: textarea, label: Spotlight Item Body}
       name: spotlight_item_body
     - field: {element: text, label: Spotlight Item Link}
@@ -42,6 +50,14 @@ prose:
       name: about_dreamcatchers_title
     - field: {element: textarea, label: About Dreamcatchers Body}
       name: about_dreamcatchers_body
+    - field: {element: text, label: About Dreamcatchers Link Text}
+      name: about_dreamcatchers_link_text
+    - field: {element: text, label: About Dreamcatchers Link}
+      name: about_dreamcatchers_link
+    - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
+        help: Select an image to upload,
+        label: Footer Image, upload_preset: dreamcatchers}
+      name: footer_image      
     src/content/outcomes:
     - field: {element: text, label: Title}
       name: title
