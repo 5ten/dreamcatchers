@@ -10,15 +10,21 @@ about_dreamcatchers_body: >-
   complete support program that includes assessments, job preparation, job
   placement and job coaching to youth and adults with limitations and
   disabilities.
-spotlight_item_title: Spotlight Maddness
+spotlight_item_title: 'Latest:'
 spotlight_item_link: /outcomes
-about_dreamcatchers_title: More About Dreamcatchers
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
 slider_button_link: /about
 about_dreamcatchers_link_text: Support Us
 about_dreamcatchers_link: /donate
+meta_description: >-
+  The Dreamcatchers Empowerment Network is a non-profit a 501(c)(3) that
+  collaborates with local businesses and government agencies to provide a
+  complete support program that includes assessments, job preparation, job
+  placement and job coaching to youth and adults with limitations and
+  disabilities.
+meta_title: The Dreamcatchers Empowerment Network
 ---
 
 The Dreamcatchers Empowerment Network is a non-profit a 501(c)(3) that collaborates with local businesses and government agencies to provide a complete support program that includes assessments, job preparation, job placement and job coaching to youth and adults with limitations and disabilities.
