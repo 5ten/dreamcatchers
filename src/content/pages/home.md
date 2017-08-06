@@ -26,5 +26,3 @@ meta_description: >-
   disabilities.
 meta_title: The Dreamcatchers Empowerment Network
 ---
-
-The Dreamcatchers Empowerment Network is a non-profit a 501(c)(3) that collaborates with local businesses and government agencies to provide a complete support program that includes assessments, job preparation, job placement and job coaching to youth and adults with limitations and disabilities.

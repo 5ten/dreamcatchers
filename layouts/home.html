@@ -1,11 +1,14 @@
 {{> header}} 
 <main>
-    
-    <div class="slideshow"></div>
+    <h1>{{meta_title}}</h1>
+    <div class="slideshow" style="background-image:url({{ imgL slider_image }})">
+        {{slider_title}}
+        <a href="slider_button_link">{{slider_button_text}}</a>
+    </div>
 
     <div class="introduction">
-        {{{contents}}}
-        <a class="button" href="/donate">Support Us</a>
+        {{about_dreamcatchers_body}}
+        <a class="button" href="{{about_dreamcatchers_link}}">{{about_dreamcatchers_link_text}}</a>
     </div>
 
     <ul class="links">
@@ -32,7 +35,7 @@
         <a class="read-more" href="{{spotlight_item_link}}">Read More</a>
     </div>
     <div class="footer-image">
-
+        {{footer_image}}
     </div>
 
 </main>

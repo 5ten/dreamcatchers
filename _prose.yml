@@ -40,16 +40,44 @@ prose:
       name: slider_title
     - field: {element: text, label: Slider Button Text}
       name: slider_button_text
-    - field: {element: text, label: Slider Button Link}
+    - field: {element: text, label: Slider Button Link URL}
       name: slider_button_link
-    - field: {element: text, label: About Dreamcatchers Title}
-      name: about_dreamcatchers_title
     - field: {element: textarea, label: About Dreamcatchers Body}
       name: about_dreamcatchers_body
     - field: {element: text, label: About Dreamcatchers Link Text}
       name: about_dreamcatchers_link_text
-    - field: {element: text, label: About Dreamcatchers Link}
+    - field: {element: text, label: About Dreamcatchers Link URL}
       name: about_dreamcatchers_link
+
+    - field: {element: textarea, label: Link 1 Body}
+      name: link_1_body
+    - field: {element: text, label: Link 1 Text}
+      name: link_1_text
+    - field: {element: text, label: Link 1 Link URL}
+      name: link_1_url
+
+    - field: {element: textarea, label: Link 2 Body}
+      name: link_2_body
+    - field: {element: text, label: Link 2 Text}
+      name: link_2_text
+    - field: {element: text, label: Link 2 Link URL}
+      name: link_2_url
+
+    - field: {element: textarea, label: Link 3 Body}
+      name: link_3_body
+    - field: {element: text, label: Link 3 Text}
+      name: link_3_text
+    - field: {element: text, label: Link 3 Link URL}
+      name: link_3_url
+
+    - field: {element: textarea, label: Link 1 Body}
+      name: link_1_body
+    - field: {element: text, label: Link 1 Text}
+      name: link_1_text
+    - field: {element: text, label: Link 1 Link URL}
+      name: link_1_url
+
+
     - field: {element: text, label: Spotlight Item Title}
       name: spotlight_item_title
     - field: {element: textarea, label: Spotlight Item Body}
