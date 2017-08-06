@@ -39,4 +39,5 @@ link_3_body: Success means more when we find it together.
 link_3_text: Sucesses & Outcomes
 link_3_url: /outcomes
 slider_image: dreamcatchers/DRM-WEB-EXTENSIONS-PART1-1
+footer_image: dreamcatchers/DRM-WEB-EXTENSIONS-PART1-2
 ---
