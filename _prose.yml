@@ -70,14 +70,6 @@ prose:
     - field: {element: text, label: Link 3 Link URL}
       name: link_3_url
 
-    - field: {element: textarea, label: Link 1 Body}
-      name: link_1_body
-    - field: {element: text, label: Link 1 Text}
-      name: link_1_text
-    - field: {element: text, label: Link 1 Link URL}
-      name: link_1_url
-
-
     - field: {element: text, label: Spotlight Item Title}
       name: spotlight_item_title
     - field: {element: textarea, label: Spotlight Item Body}
