@@ -8,11 +8,10 @@
 
     {{{contents}}}
 
-
-	{{#if successes}}
-		<ul id="successes-data">
-		{{#each successes}}
-			<li><h3><a href="/{{path}}">{{title}}</a></h3>{{teaser}}</li>
+	{{#if outcomes}}
+		<ul id="outcomes-data">
+		{{#each outcomes}}
+			<li><h3><a href="/{{path}}">{{title}}</a></h3>{{teaser}}<br><em>{{year}}</em></li>
 		{{/each}}
 		</ul>
 	{{/if}}

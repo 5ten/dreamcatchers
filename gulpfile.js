@@ -43,9 +43,24 @@ handlebars.registerHelper('each_upto', function(ary, max, options) {
     for(var i = 0; i < max && i < ary.length; ++i)
         result.push(options.fn(ary[i]));
     return result.join('');
+
+});
+// use this: {{#each_upto this 5}}
+
+handlebars.registerHelper('each_year', function(ary, year, options) {
+  // console.log(year);
+  // console.log(ary);
+
+  if(!ary || ary.length == 0)
+      return options.inverse(this);
+
+  var result = [ ];
+  for(var i = 0; i < ary.length; ++i)
+      if (ary[i].year==year)
+      result.push(options.fn(ary[i]));
+  return result.join('');
 });
 
-// use this: {{#each_upto this 5}}
 
 var browserSync   = require('browser-sync').create();
 var reload        = browserSync.reload;
