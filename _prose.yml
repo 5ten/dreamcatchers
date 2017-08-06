@@ -1,8 +1,57 @@
 prose:
   ignore: [content/media]
   media: src/content/media
-  rooturl: src/content
   metadata:
+    src/content/outcomes:
+    - field: {element: text, label: Title}
+      name: title
+    - field: {element: text, label: Year}
+      name: year
+    - field: {element: text, label: Stat 1 Value}
+      name: stat_1_value
+    - field: {element: text, label: Stat 1 Percent}
+      name: stat_1_percent
+    - field: {element: text, label: Stat 1 Label}
+      name: stat_1_label
+    - field: {element: text, label: Stat 2 Value}
+      name: stat_2_value
+    - field: {element: text, label: Stat 2 Percent}
+      name: stat_2_percent
+    - field: {element: text, label: Stat 2 Label}
+      name: stat_2_label
+    - field: {element: text, label: Stat 3 Value}
+      name: stat_3_value
+    - field: {element: text, label: Stat 3 Percent}
+      name: stat_3_percent
+    - field: {element: text, label: Stat 3 Label}
+      name: stat_3_label
+    - field: {element: text, label: Stat 4 Value}
+      name: stat_4_value
+    - field: {element: text, label: Stat 4 Percent}
+      name: stat_4_percent
+    - field: {element: text, label: Stat 4 Label}
+      name: stat_4_label
+    - field: {element: text, label: Stat 5 Value}
+      name: stat_5_value
+    - field: {element: text, label: Stat 5 Percent}
+      name: stat_5_percent
+    - field: {element: text, label: Stat 5 Label}
+      name: stat_5_label
+    - field: {element: hidden, value: outcome.html}
+      name: layout
+    - field: {element: hidden, value: outcomes}
+      name: collection
+    - field: {false: 'false', true: 'true', element: checkbox, value: true, help: Uncheck
+          to make this post hidden., label: Published}
+      name: published
+    - field: {element: textarea, label: Meta Description}
+      name: meta_description
+    - field: {element: textarea, label: Meta Title}
+      name: meta_title
+    - field: {api_key: 0, cloud_name: cloudnamehere, element: cloudinary, help: Select
+          an image here and it will be directly uploaded to Cloudinary, label: Image,
+        upload_preset: aaaaaaaaaa}
+      name: image
     src/content/pages:
     - field: {element: text, label: Title}
       name: title
@@ -17,8 +66,8 @@ prose:
       name: layout
     - field: {element: hidden, value: pages}
       name: collection
-    - field: {false: 'false', true: 'true', value: true, label: Published, help: Uncheck
-          to make this post hidden., element: checkbox}
+    - field: {false: 'false', true: 'true', element: checkbox, value: true, help: Uncheck
+          to make this post hidden., label: Published}
       name: published
     - field: {element: number, help: Lower numbers appear left on the navigation.,
         label: Order, type: number}
@@ -26,15 +75,14 @@ prose:
     - field: {element: textarea, label: Meta Description}
       name: meta_description
     - field: {element: textarea, label: Meta Title}
-      name: meta_title  
+      name: meta_title
     src/content/pages/home.md:
     - field: {element: textarea, label: Meta Description}
       name: meta_description
     - field: {element: textarea, label: Meta Title}
-      name: meta_title  
+      name: meta_title
     - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
-        help: Select an image to upload,
-        label: Slider Image, upload_preset: dreamcatchers}
+        help: Select an image to upload, label: Slider Image, upload_preset: dreamcatchers}
       name: slider_image
     - field: {element: text, label: Slider Title}
       name: slider_title
@@ -48,28 +96,24 @@ prose:
       name: about_dreamcatchers_link_text
     - field: {element: text, label: About Dreamcatchers Link URL}
       name: about_dreamcatchers_link
-
     - field: {element: textarea, label: Link 1 Body}
       name: link_1_body
     - field: {element: text, label: Link 1 Text}
       name: link_1_text
     - field: {element: text, label: Link 1 Link URL}
       name: link_1_url
-
     - field: {element: textarea, label: Link 2 Body}
       name: link_2_body
     - field: {element: text, label: Link 2 Text}
       name: link_2_text
     - field: {element: text, label: Link 2 Link URL}
       name: link_2_url
-
     - field: {element: textarea, label: Link 3 Body}
       name: link_3_body
     - field: {element: text, label: Link 3 Text}
       name: link_3_text
     - field: {element: text, label: Link 3 Link URL}
       name: link_3_url
-
     - field: {element: text, label: Spotlight Item Title}
       name: spotlight_item_title
     - field: {element: textarea, label: Spotlight Item Body}
@@ -77,64 +121,8 @@ prose:
     - field: {element: text, label: Spotlight Item Link}
       name: spotlight_item_link
     - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
-        help: Select an image to upload,
-        label: Footer Image, upload_preset: dreamcatchers}
-      name: footer_image      
-    src/content/outcomes:
-    - field: {element: text, label: Title}
-      name: title
-    - field: {element: text, label: Year}
-      name: year
-    - field: {element: text, label: Stat 1 Value}
-      name: stat_1_value
-    - field: {element: text, label: Stat 1 Percent}
-      name: stat_1_percent
-    - field: {element: text, label: Stat 1 Label}
-      name: stat_1_label
-
-    - field: {element: text, label: Stat 2 Value}
-      name: stat_2_value
-    - field: {element: text, label: Stat 2 Percent}
-      name: stat_2_percent
-    - field: {element: text, label: Stat 2 Label}
-      name: stat_2_label
-
-    - field: {element: text, label: Stat 3 Value}
-      name: stat_3_value
-    - field: {element: text, label: Stat 3 Percent}
-      name: stat_3_percent
-    - field: {element: text, label: Stat 3 Label}
-      name: stat_3_label
-
-    - field: {element: text, label: Stat 4 Value}
-      name: stat_4_value
-    - field: {element: text, label: Stat 4 Percent}
-      name: stat_4_percent
-    - field: {element: text, label: Stat 4 Label}
-      name: stat_4_label
-
-    - field: {element: text, label: Stat 5 Value}
-      name: stat_5_value
-    - field: {element: text, label: Stat 5 Percent}
-      name: stat_5_percent
-    - field: {element: text, label: Stat 5 Label}
-      name: stat_5_label
-
-    - field: {element: hidden, value: outcome.html}
-      name: layout
-    - field: {element: hidden, value: outcomes}
-      name: collection
-    - field: {false: 'false', true: 'true', value: true, label: Published, help: Uncheck
-          to make this post hidden., element: checkbox}
-      name: published
-    - field: {element: textarea, label: Meta Description}
-      name: meta_description
-    - field: {element: textarea, label: Meta Title}
-      name: meta_title  
-    - field: {api_key: 0000000000000000, cloud_name: cloudnamehere, element: cloudinary,
-        help: Select an image here and it will be directly uploaded to Cloudinary,
-        label: Image, upload_preset: aaaaaaaaaa}
-      name: image
+        help: Select an image to upload, label: Footer Image, upload_preset: dreamcatchers}
+      name: footer_image
     src/content/successes:
     - field: {element: text, label: Title}
       name: title
@@ -146,14 +134,15 @@ prose:
       name: layout
     - field: {element: hidden, value: successes}
       name: collection
-    - field: {false: 'false', true: 'true', value: true, label: Published, help: Uncheck
-          to make this post hidden., element: checkbox}
+    - field: {false: 'false', true: 'true', element: checkbox, value: true, help: Uncheck
+          to make this post hidden., label: Published}
       name: published
     - field: {element: textarea, label: Meta Description}
       name: meta_description
     - field: {element: textarea, label: Meta Title}
-      name: meta_title  
-    - field: {api_key: 0000000000000000, cloud_name: cloudnamehere, element: cloudinary,
-        help: Select an image here and it will be directly uploaded to Cloudinary,
-        label: Image, upload_preset: aaaaaaaaaa}
+      name: meta_title
+    - field: {api_key: 0, cloud_name: cloudnamehere, element: cloudinary, help: Select
+          an image here and it will be directly uploaded to Cloudinary, label: Image,
+        upload_preset: aaaaaaaaaa}
       name: image
+  rooturl: src/content
