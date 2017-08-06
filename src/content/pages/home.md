@@ -25,4 +25,17 @@ meta_description: >-
   placement and job coaching to youth and adults with limitations and
   disabilities.
 meta_title: The Dreamcatchers Empowerment Network
+link_1_body: >-
+  Employment support programs for youth & adults with limitations &
+  disabilities.
+link_1_text: Our Programs
+link_1_url: /programs
+link_2_body: >-
+  Partnering with businesses and agencies that understand the meaning of
+  community.
+link_2_text: For Employers
+link_2_url: /employers
+link_3_body: Success means more when we find it together.
+link_3_text: Sucesses & Outcomes
+link_3_url: /outcomes
 ---
