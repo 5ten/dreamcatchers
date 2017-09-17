@@ -1,19 +1,29 @@
     <footer>
-        <nav class="navigation">
-            <ul>
-                {{#if pages}} {{#each pages}}
-                <li>
-                    <a class="{{path}}" href="/{{path}}">{{title}}</a>
-                </li>
-                {{/each}} {{/if}}
-                <li>
-                    <a class="blog" href="http://blog.com">Blog</a>
-                </li>                
-            </ul>
-        </nav>
-        <p>
-© Dreamcatchers Empowerment Network | Fairfield CA 94533 | (707) 558-1775 | CONTACT        
-        </p>
+        <div class="container">
+
+            <div class="brand">
+                <a class="logo" href="/home">
+                    <span class="icon-logo"><span>{{site.name}}</span></span>
+                </a>
+            </div>
+
+            <nav class="navigation">
+                <ul>
+                    {{#if pages}} {{#each pages}}
+                    <li>
+                        <a class="{{path}}" href="/{{path}}">{{title}}</a>
+                    </li>
+                    {{/each}} {{/if}}
+                    <li>
+                        <a class="blog" href="http://blog.com">Blog</a>
+                    </li>                
+                </ul>
+            </nav>
+
+            <div class="copyright">
+                © Dreamcatchers Empowerment Network | Fairfield CA 94533 | (707) 558-1775 | CONTACT        
+            </div>
+        </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <script src="/scripts/vendor/slick.min.js"></script>

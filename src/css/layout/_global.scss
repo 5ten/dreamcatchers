@@ -4,7 +4,7 @@
 	position: relative;
 	margin: auto;
 }
-header {
+header, footer {
 	background-color: $teal2;
 	padding: 1.5rem 0 1rem;
 	position: relative;
@@ -67,6 +67,27 @@ header {
 		}
 	}
 
+}
+
+footer {
+	padding:2rem 1rem;
+	background-color: #fff;
+	* {
+		color:#000;
+	}
+	.navigation {
+		position: relative;
+		left: auto;
+		bottom:auto;
+	}
+	.logo {
+		color:#000;
+	}
+	.copyright {
+		@include clearfix;
+		float:left;
+		margin-top: .5rem;
+	}
 }
 
 .masthead {
