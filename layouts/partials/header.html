@@ -18,32 +18,30 @@
     <title>{{ title }} | {{site.name}}</title>
     <link rel="stylesheet" type="text/css" href="/css/all.css" />
     <script src="/scripts/vendor/modernizr.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Montserrat:300,400,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700,900" rel="stylesheet">
 </head>
 
 <body class="{{cleanTitle title}}">
-    <div class="header">
-        <h1 class="brand">
-            <a class="logo" href="/">
-                {{#if site.logo}}
-                <img src="{{site.logo}}" alt="{{site.name}}" />
-                {{else}}
-                <span>{{site.name}}</span>
-                {{/if}}
-            </a>
-        </h1>
-        <button class="hamburger hamburger--3dx" type="button">
-          <span class="hamburger-box">
-            <span class="hamburger-inner"></span>
-          </span>
-        </button>
-        <nav class="navigation">
-            <ul>
-                {{#if pages}} {{#each pages}}
-                <li class="nav-item">
-                    <a class="{{path}}" href="/{{path}}">{{title}}</a></h3>
-                </li>
-                {{/each}} {{/if}}
-            </ul>
-        </nav>
-    </div>
+    <header>
+        <div class="container">
+            <div class="brand">
+                <a class="logo" href="/home">
+                    <span class="icon-logo"><span>{{site.name}}</span></span>
+                </a>
+            </div>
+            <button class="hamburger hamburger--3dx" aria-label="menu" type="button">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+            </button>
+            <nav class="navigation">
+                <ul>
+                    {{#if pages}} {{#each pages}}
+                    <li class="nav-item">
+                        <a class="{{path}}" href="/{{path}}">{{title}}</a></h3>
+                    </li>
+                    {{/each}} {{/if}}
+                </ul>
+            </nav>
+        </div>
+    </header>

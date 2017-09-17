@@ -35,15 +35,16 @@
 
 // Button
 @mixin button {
+    color: #fff;
+    border:solid 1px $teal2;
+    background: $teal2;
     padding: .25rem .5rem;
     display:inline-block;
-    color: $c-white;
-    border:solid 1px $c-extraLightGray;
     font-size:1rem;
     text-transform: uppercase;
     margin-top:1rem;
-    @extend %button;
 }
+
 
 
 // Clearfix
@@ -112,14 +113,5 @@
     @warn 'Unfortunately, no value with #{$name} could be retrieved from `$breakpoint`. '
         + 'Please make sure it is defined in `$breakpoints` map.';
   }
-}
-
-
-@mixin show-more-link(){
-    color:$c-green;
-    @include all-caps;
-    display:block;
-    text-align:center;
-    padding:2rem 0;
 }
 

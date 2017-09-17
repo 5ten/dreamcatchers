@@ -1,0 +1,166 @@
+.container {
+	max-width:55rem;
+	@include clearfix;
+	position: relative;
+	margin: auto;
+}
+header {
+	background-color: $teal2;
+	padding: 1.5rem 0 1rem;
+	position: relative;
+	* {
+		color: #fff;
+		line-height: 1;
+	}
+	.logo {
+		font-size: 3rem;
+		line-height: 0;
+		span span {
+			display:none;
+		}
+	}
+
+	ul,li {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+		a {
+			@extend .topnav;
+			margin-right:1em;
+
+		}
+
+	}
+	.brand {
+		float: right;
+		padding-right:1rem;
+		@include media('small-screen') {
+			padding:0;
+		}
+	}
+	.navigation {
+		display: none;
+		@include media('small-screen') {
+			display:block;
+			float: left;
+			position: absolute;
+			bottom: 0;
+			left: 0;
+		}
+		li {
+			padding:.5rem 1rem;
+			@include media('small-screen') {
+				padding: 0;
+				display: inline-block;
+			}	
+			&:first-child {
+				display: none;
+			}
+		}
+		&.open {
+			display: block;
+		}
+	}
+	.hamburger {
+		@include media('small-screen') {
+			display: none;
+		}
+	}
+
+}
+
+.masthead {
+	position: relative;
+	@include media('small-screen') {
+		height:60vw;	
+	}
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;	
+	.h1 {
+		color:#fff;
+		padding:10rem 3rem 1rem;
+		@include media('small-screen') {
+			padding:0 3rem;	
+		}
+		
+	}
+	.overlay {
+		background: rgba(0, 0, 0, .35);
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+	* {
+		position: relative;
+	}
+	.button {
+	  color: $teal2;
+	  border:solid 1px #fff;
+	  background: #fff;
+	  margin-bottom: 3rem;
+		@include media('small-screen') {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.introduction {
+	text-align: center;
+	padding: 2rem;
+	@include media('small-screen') {
+		padding: 2rem 6rem;		
+	}
+
+}
+
+.links {
+	background: $grey;
+	color:#fff;
+	.link {
+		color:#fff;
+		@include media('small-screen') {
+			position: absolute;
+			bottom: 2rem;
+			left: 2rem;
+		}
+	}		
+
+	ul, li {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;		
+	}
+	li {
+		padding: 2rem;
+		@include media('small-screen') {
+			padding-right: 4rem;
+			width: 33.333333%;
+			position: relative;
+			float: left;
+			height: 17rem;
+		}
+
+	}
+	li:nth-child(1) {
+		background: $ltgrey;
+		color: #000;
+		.link {
+			color:#000;
+		}
+	}
+	li:nth-child(2) {
+		background: $teal1;
+	}
+	li:nth-child(3) {
+		background: $teal3;
+	}
+
+}
+

@@ -1,20 +1,22 @@
-<footer>
-    <div class="social">
-        {{#if social}} {{#each social}}
-        <a target="_blank" href="{{this}}"><span class="icon-{{@key}}"></span><span class="accessibility">{{@key}}</span></a> {{/each}} {{/if}}
-    </div>
-    <nav class="navigation">
-        <ul>
-            {{#if pages}} {{#each pages}}
-            <li>
-                <a class="{{path}}" href="/{{path}}">{{title}}</a>
-            </li>
-            {{/each}} {{/if}}
-        </ul>
-    </nav>
-</footer>
-<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-<script src="/scripts/vendor/slick.min.js"></script>
-<script src="/scripts/init.js"></script>
+    <footer>
+        <nav class="navigation">
+            <ul>
+                {{#if pages}} {{#each pages}}
+                <li>
+                    <a class="{{path}}" href="/{{path}}">{{title}}</a>
+                </li>
+                {{/each}} {{/if}}
+                <li>
+                    <a class="blog" href="http://blog.com">Blog</a>
+                </li>                
+            </ul>
+        </nav>
+        <p>
+© Dreamcatchers Empowerment Network | Fairfield CA 94533 | (707) 558-1775 | CONTACT        
+        </p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="/scripts/vendor/slick.min.js"></script>
+    <script src="/scripts/init.js"></script>
 </body>
 </html>

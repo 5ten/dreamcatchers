@@ -1,42 +1,44 @@
-{{> header}} 
+{{> header}}
 <main>
     <h1>{{meta_title}}</h1>
-    <div class="slideshow" style="background-image:url({{ imgL slider_image }})">
-        {{slider_title}}
-        <a href="slider_button_link">{{slider_button_text}}</a>
+    <div class="masthead" role="banner" style="background-image:url({{imgL slider_image}})">
+        <div class="overlay"></div>
+        <div>
+            <div class="h1">{{slider_title}}</div>
+            <a href="slider_button_link" class="button">{{slider_button_text}}</a>
+        </div>
     </div>
-
     <div class="introduction">
-        {{about_dreamcatchers_body}}
-        <a class="button" href="{{about_dreamcatchers_link}}">{{about_dreamcatchers_link_text}}</a>
+        <div class="container">
+            <div class="p1">{{about_dreamcatchers_body}}</div>
+            <a class="button" href="{{about_dreamcatchers_link}}">{{about_dreamcatchers_link_text}}</a>
+        </div>
     </div>
-
-    <ul class="links">
-        <li>
-            <p>Employment support programs for youth & adults with limitations
-& disabilities.</p>
-            <a href="/programs">Our Programs</a>
-        </li>   
-        <li>
-            <p>Partnering with businesses and agencies that understand the meaning of community.</p>
-            <a href="/employers">For Employers</a>
-            
-        </li>
-        <li>
-            <p>Success means more when we find it together.</p>
-            <a href="/outcomes">Sucesses &amp; Outcomes</a>
-        </li>
-
-    </div>
-
-    <div class="spotlight">
+    <div class="links">
+        <div class="container">
+            <ul role="directory">
+                <li>
+                    <div class="p1">{{link_1_body}}</div>
+                    <a class="link" href="{{link_1}}">{{link_1_text}}</a>
+                </li>
+                <li>
+                    <div class="p1">{{link_2_body}}</div>
+                    <a class="link" href="{{link_2}}">{{link_2_text}}</a>
+                </li>
+                <li>
+                    <div class="p1">{{link_3_body}}</div>
+                    <a class="link" href="{{link_3}}">{{link_3_text}}</a>
+                </li>
+            </ul>
+        </div>    
+    </div>    
+    <div class="spotlight" role="article">
         <h3>{{spotlight_item_title}}</h3>
-        <p>{{spotlight_item_body}}</p>
-        <a class="read-more" href="{{spotlight_item_link}}">Read More</a>
+        <div class="p1">{{spotlight_item_body}}</div>
+        <a class="link" href="{{spotlight_item_link}}">Read More</a>
     </div>
-    <div class="footer-image">
-        {{footer_image}}
+    <div class="footer-image" role="banner">
+        <img src="{{imgL footer_image}}" alt="footer image"/>
     </div>
-
 </main>
 {{> footer}}

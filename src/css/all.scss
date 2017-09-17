@@ -1,4 +1,3 @@
-
 /* ---------- Icomoon ---------- */
 @import '../icomoon/style.scss';
 
@@ -6,35 +5,31 @@
 @import 'normalize/import-now';
 
 /* ---------- Variables ---------- */
-@import 'styles/variables';
+@import 'variables';
 
 /* ---------- Mixins ---------- */
-@import 'styles/mixins';
+@import 'mixins';
 
 /* ---------- Typography ---------- */
-@import 'styles/typography';
+@import 'typography';
+
+/* ---------- Typography ---------- */
+@import 'forms';
+
+/* ---------- Global styles ---------- */
+@import 'global';
+
+/* ---------- Layouts ---------- */
+@import 'layout/all';
+
+/* ---------- Page styles ---------- */
+@import 'pages/all';
 
 /* ---------- Slick ---------- */
 @import 'vendor/slick';
 
 /* ---------- Hamburgers ---------- */
-@import 'hamburgers/hamburgers';
+@import 'vendor/hamburgers/hamburgers';
 
-/* ---------- Global styles ---------- */
-@import 'styles/global';
-
-/* ---------- Modules ---------- */
-@import 'styles/modules/all';
-
-/* ---------- Layouts ---------- */
-@import 'styles/layout';
-
-/* ---------- Layouts ---------- */
-@import 'styles/overrides';
-
-/* ---------- Page styles ---------- */
-@import 'styles/pages/all';
-
-/* ---------- Block styles ---------- */
-@import 'styles/blocks/all';
-;
+/* ---------- Overrides ---------- */
+@import 'overrides';
