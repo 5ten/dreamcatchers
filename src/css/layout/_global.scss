@@ -1,8 +1,9 @@
 .container {
-	max-width:50rem;
 	@include clearfix;
 	position: relative;
-	margin: auto;
+	padding-left: $side-padding;
+	padding-right: $side-padding;
+
 }
 
 header, footer {
@@ -46,7 +47,7 @@ header, footer {
 			float: left;
 			position: absolute;
 			bottom: 0;
-			left: 0;
+			left: $side-padding;
 		}
 		li {
 			padding:.5rem 1rem;
@@ -71,7 +72,7 @@ header, footer {
 }
 
 footer {
-	padding:2rem 1rem;
+	padding:2rem 0;
 	background-color: #fff;
 	* {
 		color:#000;
@@ -225,6 +226,7 @@ footer {
 	}
 }
 
+
 .zebra {
 	&, li {
 		list-style-type: none;
@@ -232,14 +234,39 @@ footer {
 		margin:0;
 		background: $grey;
 	}
-	li .container {
-		padding:1rem 0;
-	}
+	li {
+		padding-top:1rem;
+		padding-bottom:1rem;
+	} 
 	li:nth-child(2n) {
 		background: $ltgrey;
 	}
 	.link {
 		display: inline-block;
 		margin-top: 1rem;
+	}
+}
+
+.grid {
+	padding: $side-padding/2 $side-padding;
+	background: $ltgrey;
+	&, li {
+		list-style-type: none;
+	}		
+	li {
+		float:left;
+		width:33%;
+	}
+	@include clearfix;
+}
+
+.pages main {
+	p, h1, h2, h3 {
+		padding-left: $side-padding;
+		padding-right: $side-padding;
+	}
+	li h3 {
+		padding-left: $side-padding;
+		padding-right: $side-padding;
 	}
 }

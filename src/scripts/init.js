@@ -29,7 +29,7 @@
             }
         });    
         
-        $('#quotes ul').slick({
+        $('#quotes ul, .for-employers main ul:nth-of-type(1)').slick({
             autoplay: true,
             arrows: false,
             lazyLoad: 'progressive',

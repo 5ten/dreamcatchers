@@ -1,9 +1,13 @@
 {{> header}}
-<div class="masthead" style="background-image: url({{ imgL image }})">
-    <h1>{{title}}</h1>
-    <p>{{teaser}}</p>
+<img src="{{ imgL header_image }}">
 </div>
 <main>
+    <div class="introduction">
+        <h2>{{intro_title}}</h2>
+        <div class="p1">{{intro_body}}</div>
+        {{#if intro_link}}
+        <a class="button" href="{{intro_link}}">{{intro_link_text}}</a> {{/if}}
+    </div>
     {{{contents}}}
 </main>
-{{> footer}}
+<img src="{{ imgL footer_image }}"> {{> footer}}

@@ -1,42 +1,27 @@
 {{> header}}
-
 <img src="{{ imgL header_image }}">
-
 <main>
     <div class="introduction">
-        <div class="container">
-            <h2>{{intro_title}}</h2>
-            <div class="p1">{{intro_body}}</div>
-            <a class="button" href="{{intro_link}}">{{intro_link_text}}</a>
-        </div>
+        <h2>{{intro_title}}</h2>
+        <div class="p1">{{intro_body}}</div>
+        {{#if intro_link}}
+        <a class="button" href="{{intro_link}}">{{intro_link_text}}</a> {{/if}}
     </div>
-
-	{{#if successes}}
-	<div class="successes">
-		<div class="container">
-			<h2>Success Stories</h2>
-		</div>	
-			<ul>
-			{{#each successes}}
-				<li>
-					<div class="container">
-						{{teaser}}<br ><a href="{{path}}" class="link">Read More</a>
-					</div>
-				</li>
-			{{/each}}
-			</ul>
-		</div>
-	{{/if}}
-
-	<div id="quotes" class="quotes">
-		<div class="container">
-			{{{contents}}}
-		</div> 		
-	</div>
-
+    {{#if successes}}
+    <div class="successes">
+        <h2>Success Stories</h2>
+        <ul class="zebra">
+            {{#each successes}}
+            <li>
+                {{teaser}}
+                <br><a href="{{path}}" class="link">Read More</a>
+            </li>
+            {{/each}}
+        </ul>
+    </div>
+    {{/if}}
+    <div id="quotes" class="quotes">
+        {{{contents}}}
+    </div>
 </main>
-
-<img src="{{ imgL footer_image }}">
-
-
-{{> footer}}
+<img src="{{ imgL footer_image }}"> {{> footer}}
