@@ -214,6 +214,24 @@ footer {
 
 }
 
+.feature {
+	background: $teal2;
+	color: #fff;
+	padding: 2rem;
+	@include media('small-screen') {
+		padding:2rem 0;
+	}
+	h3 {
+		margin-top: 0;
+	}
+	.p1 {
+		margin-bottom: .25rem;
+	}
+	.link {
+		color: #fff;
+	}
+}
+
 .quotes {
 	padding: 1rem 2rem;
 	background:  $teal1;

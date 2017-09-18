@@ -10,11 +10,12 @@
     {{#if successes}}
     <div class="successes">
         <h2>Success Stories</h2>
-        <ul class="zebra">
+        <ul>
             {{#each successes}}
             <li>
-                {{teaser}}
+                <p>{{teaser}}
                 <br><a href="{{path}}" class="link">Read More</a>
+                </p>
             </li>
             {{/each}}
         </ul>
