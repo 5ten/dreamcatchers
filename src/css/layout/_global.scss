@@ -1,8 +1,12 @@
 .container {
 	@include clearfix;
 	position: relative;
-	padding-left: $side-padding;
-	padding-right: $side-padding;
+	padding-left: $side-padding-mobile;
+	padding-right: $side-padding-mobile;			
+	@include media('small-screen') {
+		padding-left: $side-padding;
+		padding-right: $side-padding;			
+	}
 
 }
 
@@ -217,7 +221,7 @@ footer {
 .feature {
 	background: $teal2;
 	color: #fff;
-	padding: 2rem;
+	padding: 2rem 0;
 	@include media('small-screen') {
 		padding:2rem 0;
 	}
@@ -280,11 +284,19 @@ footer {
 
 .pages main {
 	p, h1, h2, h3 {
-		padding-left: $side-padding;
-		padding-right: $side-padding;
+		padding-left: $side-padding-mobile;
+		padding-right: $side-padding-mobile;			
+		@include media('small-screen') {
+			padding-left: $side-padding;
+			padding-right: $side-padding;			
+		}
 	}
 	li h3 {
-		padding-left: $side-padding;
-		padding-right: $side-padding;
+		padding-left: $side-padding-mobile;
+		padding-right: $side-padding-mobile;			
+		@include media('small-screen') {
+			padding-left: $side-padding;
+			padding-right: $side-padding;			
+		}
 	}
 }
