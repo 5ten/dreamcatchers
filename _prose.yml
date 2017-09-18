@@ -76,6 +76,22 @@ prose:
       name: meta_description
     - field: {element: textarea, label: Meta Title}
       name: meta_title
+    - field: {element: text, label: Introduction Title Text}
+      name: intro_title
+    - field: {element: textarea, label: Introduction Body}
+      name: intro_body
+    - field: {element: text, label: Introduction Link Text}
+      name: intro_link_text
+    - field: {element: text, label: Introduction Link URL}
+      name: intro_link
+    - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
+        help: Select an image to upload, label: Footer Image, upload_preset: dreamcatchers}
+      name: footer_image
+    - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
+        help: Select an image to upload, label: Header Image, upload_preset: dreamcatchers}
+      name: header_image
+
+
     src/content/pages/home.md:
     - field: {element: textarea, label: Meta Description}
       name: meta_description
@@ -90,12 +106,12 @@ prose:
       name: slider_button_text
     - field: {element: text, label: Slider Button Link URL}
       name: slider_button_link
-    - field: {element: textarea, label: About Dreamcatchers Body}
-      name: about_dreamcatchers_body
-    - field: {element: text, label: About Dreamcatchers Link Text}
-      name: about_dreamcatchers_link_text
-    - field: {element: text, label: About Dreamcatchers Link URL}
-      name: about_dreamcatchers_link
+    - field: {element: textarea, label: Introduction Body}
+      name: intro_body
+    - field: {element: text, label: Introduction Link Text}
+      name: intro_link_text
+    - field: {element: text, label: Introduction Link URL}
+      name: intro_link
     - field: {element: textarea, label: Link 1 Body}
       name: link_1_body
     - field: {element: text, label: Link 1 Text}

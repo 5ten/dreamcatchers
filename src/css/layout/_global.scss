@@ -1,9 +1,10 @@
 .container {
-	max-width:55rem;
+	max-width:50rem;
 	@include clearfix;
 	position: relative;
 	margin: auto;
 }
+
 header, footer {
 	background-color: $teal2;
 	padding: 1.5rem 0 1rem;
@@ -16,7 +17,7 @@ header, footer {
 		font-size: 3rem;
 		line-height: 0;
 		span span {
-			display:none;
+			display: none;
 		}
 	}
 
@@ -33,9 +34,9 @@ header, footer {
 	}
 	.brand {
 		float: right;
-		padding-right:1rem;
+		padding-right: 2rem;
 		@include media('small-screen') {
-			padding:0;
+			padding: 0;
 		}
 	}
 	.navigation {
@@ -81,12 +82,29 @@ footer {
 		bottom:auto;
 	}
 	.logo {
-		color:#000;
+		display:none;
+		@include media('small-screen') {
+			display: block;
+			color: #000;
+		}
 	}
 	.copyright {
 		@include clearfix;
 		float:left;
 		margin-top: .5rem;
+		line-height: 1.5;
+		.linebreak {
+			display: block;
+			@include media('small-screen') {
+				display: inline;
+			}
+			span {
+				display:none;
+				@include media('small-screen') {
+					display:inline;
+				}
+			}
+		}
 	}
 }
 
@@ -138,6 +156,16 @@ footer {
 	@include media('small-screen') {
 		padding: 2rem 6rem;		
 	}
+	h2 {
+		@extend .h1;
+		margin-bottom:0;
+		color: $teal2;
+	}
+	p {
+		@extend .p1;
+		margin: 1rem 0;
+	}
+
 
 }
 
@@ -185,3 +213,33 @@ footer {
 
 }
 
+.quotes {
+	padding: 1rem 2rem;
+	background:  $teal1;
+	color: #fff;
+	text-align: center;
+	@extend .h1;
+	margin: 0;
+	&, li {
+		list-style-type: none;
+	}
+}
+
+.zebra {
+	&, li {
+		list-style-type: none;
+		padding:0;
+		margin:0;
+		background: $grey;
+	}
+	li .container {
+		padding:1rem 0;
+	}
+	li:nth-child(2n) {
+		background: $ltgrey;
+	}
+	.link {
+		display: inline-block;
+		margin-top: 1rem;
+	}
+}

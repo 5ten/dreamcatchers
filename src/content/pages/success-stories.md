@@ -4,19 +4,13 @@ published: true
 order: 3
 title: Success Stories
 layout: success_stories.html
+intro_title: Wee I am the title
+intro_body: >-
+  Lorem ipsum dolor sit amet, consectetuer adipisc ing elit, sed diam nonumm  ibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+intro_link_text: Outcomes
+intro_link: /2015
+
 ---
-## Successes and Outcomes
-Lorem ipsum dolor sit amet, consectetuer adipisc
-ing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+ - “Client Quote Goes here”
+ - “Another Client Quote”
 
-[Outcomes](/2015)
-
-[Client Quote]
-
-<div id="success-stories"></div>
-
-[Client Quote]
-
-## Program Contact Info
-Lorem ipsum dolor sit amet, consectetuer adipisc
-ing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.

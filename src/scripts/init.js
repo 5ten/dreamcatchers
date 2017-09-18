@@ -7,19 +7,7 @@
         /* random  beteen 1 and 3 */
         var rand = Math.floor(Math.random() * 3);
 
-        /* homepage slider */
-        $('#slick').slick({
-            autoplay: true,
-            arrows: false,
-            lazyLoad: 'progressive',
-            speed: 1000,
-            fade: true,
-            cssEase: 'linear',
-            initialSlide: rand,
-            mobileFirst: true,
-            pauseOnFocus: false,
-            pauseOnHover: false
-        });
+
 
         /* hilight active page */
         $('.nav-item a').each(function(){
@@ -40,6 +28,19 @@
                 });
             }
         });    
+        
+        $('#quotes ul').slick({
+            autoplay: true,
+            arrows: false,
+            lazyLoad: 'progressive',
+            speed: 1000,
+            fade: true,
+            cssEase: 'linear',
+            initialSlide: rand,
+            mobileFirst: true,
+            pauseOnFocus: false,
+            pauseOnHover: false
+        });
 
         var $contactForm = $('#contact-form');
         $contactForm.submit(function(e) {

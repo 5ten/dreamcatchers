@@ -1,20 +1,42 @@
 {{> header}}
-<div class="masthead" style="background-image: url({{ imgL image }})">
-    <h1>{{title}}</h1>
-</div>
+
+<img src="{{ imgL header_image }}">
+
 <main>
+    <div class="introduction">
+        <div class="container">
+            <h2>{{intro_title}}</h2>
+            <div class="p1">{{intro_body}}</div>
+            <a class="button" href="{{intro_link}}">{{intro_link_text}}</a>
+        </div>
+    </div>
 
-    <div class="slideshow"></div>
-
-    {{{contents}}}
-
-	{{#if outcomes}}
-		<ul id="outcomes-data">
-		{{#each outcomes}}
-			<li><h3><a href="/{{path}}">{{title}}</a></h3>{{teaser}}<br><em>{{year}}</em></li>
-		{{/each}}
-		</ul>
+	{{#if successes}}
+	<div class="successes">
+		<div class="container">
+			<h2>Success Stories</h2>
+		</div>	
+			<ul>
+			{{#each successes}}
+				<li>
+					<div class="container">
+						{{teaser}}<br ><a href="{{path}}" class="link">Read More</a>
+					</div>
+				</li>
+			{{/each}}
+			</ul>
+		</div>
 	{{/if}}
 
+	<div id="quotes" class="quotes">
+		<div class="container">
+			{{{contents}}}
+		</div> 		
+	</div>
+
 </main>
+
+<img src="{{ imgL footer_image }}">
+
+
 {{> footer}}
