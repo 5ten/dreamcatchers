@@ -6,8 +6,12 @@ title: For Employers
 layout: page.html
 intro_title: For Employers
 intro_body: >-
-  Lorem ipsum dolor sit amet, consectetuer adipisc ing elit, sed diam nonumm  ibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+  Lorem ipsum dolor sit amet, consectetuer adipisc ing elit, sed diam nonumm 
+  ibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
+  enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
+  nisl ut aliquip ex ea commodo consequat.
+header_image: dreamcatchers/dudes
+footer_image: dreamcatchers/flowers
 ---
 
 - Employer Quote #1
