@@ -5,7 +5,7 @@ spotlight_item_body: >-
   Dreamcatchers Empowerment Network’s Celebrates its 3rd Annual Client Success
   Recognitionadults with limitations and disabilities.
 intro_body: >-
-  The Dreamcatchers Empowerment Network is a non-profit a 501(c)(3) that
+  Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
   complete support program that includes assessments, job preparation, job
   placement and job coaching to youth and adults with limitations and
@@ -19,7 +19,7 @@ slider_button_link: /about
 intro_link_text: Support Us
 intro_link: /donate
 meta_description: >-
-  The Dreamcatchers Empowerment Network is a non-profit a 501(c)(3) that
+  Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
   complete support program that includes assessments, job preparation, job
   placement and job coaching to youth and adults with limitations and
