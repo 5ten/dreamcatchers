@@ -23,21 +23,24 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 ## Our Values
   
 - ### Choice
-  ›  Provide clients with the information to make informed choices.
-  ›  Ownership of their destiny.
+  
+  Provide clients with the information to make informed choices. Ownership of their destiny.
+  
 - ### Empowerment
-  ›  Creating a focus on self-sufficiency rather than dependency.
-  ›  We show our clients their strengths and build on them by partnering with them to open doors.
-  ›  Providing encouragement to believe that they CAN!
+  
+  Creating a focus on self-sufficiency rather than dependency. We show our clients their strengths and build on them by partnering with them to open doors. Providing encouragement to believe that they CAN!
+  
 - ### Trust
-  ›  Building bridges of hope and honesty with clients and community.
-  ›  By being reliable, respecting confidentiality and treating each client with integrity.
+  
+  Building bridges of hope and honesty with clients and community. By being reliable, respecting confidentiality and treating each client with integrity.
+
 - ### Collaboration
-  ›  Incorporating diverse agencies and including our clients in the decision-making process.
-  ›  Teamwork makes the Dream Work.
+  
+  Incorporating diverse agencies and including our clients in the decision-making process. Teamwork makes the Dream Work.
+
 - ### Safety
-  ›  Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow.
-  ›  Make sure safety is first priority by ensuring and continually expanding safety practices.
+  
+  Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow. Make sure safety is first priority by ensuring and continually expanding safety practices.
 
 
 ## Our Board
