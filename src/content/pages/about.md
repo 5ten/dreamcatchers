@@ -5,27 +5,10 @@ order: 4
 title: About Us
 layout: page.html
 intro_body: >-
-  Our mission at Dreamcatchers Empowerment Network is to provide assessments,
-  job preparation, job placement and job coaching to youth and adults with
-  limitations and disabilities. We are dedicated to serving individuals in a
-  collaborative manner, with a network of other agencies. Dreamcatchers services
-  are directed at assisting individuals to prepare for, choose, obtain, and
-  retain employment. Services are tailored to an individual's strengths,
-  resources, priorities, needs, abilities, interests and informed
-  choices.<br><br> The philosophy at Dreamcatchers Empowerment Network is a
-  client-centered approach to providing services with respect and dignity, as
-  well as educating the community on the benefits of employing people with
-  limitations. We believe that when an individual achieves meaningful
-  employment, the community benefits from the exposure and contributions of
-  individuals, who are frequently marginalized. Dreamcatchers employment
-  services are key to fighting stigma and discrimination for individuals with
-  limitations.<br><br> We strive to create an environment that is participatory,
-  goal-oriented, enjoyable, and holds trustworthiness and loyalty at the core of
-  all we do.
-intro_title: >-
   Our Vision at Dreamcatchers is providing a continuum of pre-vocational and
   vocational services that empower clients to live and succeed in their
   community.
+intro_title: Our Vision
 header_image: dreamcatchers/flowers
 footer_image: dreamcatchers/dudes
 ---
@@ -73,4 +56,3 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 
 - ### Maria Stefanou
   Ms. Stefanou has been a certified public accountant for more than 28 years. She has worked with clients in the transportation, pharmaceutical and healthcare industries. Her role as a financial manager has included the preparation and review of financial statements and tax returns, acquisitions and refinancings of real estate holdings and a liaison between her clients and the financial community. She is also a board member of Greencrest Insurance Company that provides reinsurance for workers compensation and general liability insurance. She became a board member of Dreamcatchers in 2002 because she strongly believed in their mission of empowering persons with disabilities to live independent lives.
-
