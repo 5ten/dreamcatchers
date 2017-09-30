@@ -4,14 +4,10 @@ published: true
 order: 3
 title: Success Stories
 layout: success_stories.html
-intro_title: Wee I am the title
-intro_body: >-
-  Lorem ipsum dolor sit amet, consectetuer adipisc ing elit, sed diam nonumm 
-  ibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
-  enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
-  nisl ut aliquip ex ea commodo consequat.
+intro_title: Transforming lives and Empowering Through Employment
+intro_body: Success is only achieved when we work together.
 intro_link_text: Outcomes
-intro_link: /2015
+intro_link: /2016
 header_image: dreamcatchers/girl
 footer_image: dreamcatchers/flowers
 ---
