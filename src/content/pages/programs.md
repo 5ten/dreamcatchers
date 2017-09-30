@@ -49,8 +49,8 @@ is provided by our employment specialists after a client's job placement, to mai
 Dreamcatchers provides Employment Services and Paid Work Assessments through private contracts to governmental and private agencies throughout the counties in which we provide services. 
 
 - ### Sparkpoint Solano
-
-Sparkpoint was developed by United Way, brings together free community resources to help families grow and prosper. The center is a one-stop location for a full-range of services, including financial coaching, as well as programs that help families move up the career ladder, build assets and manage their credit. We work together to help achieve goals by offering such services as:
+  
+  Sparkpoint was developed by United Way, brings together free community resources to help families grow and prosper. The center is a one-stop location for a full-range of services, including financial coaching, as well as programs that help families move up the career ladder, build assets and manage their credit. We work together to help achieve goals by offering such services as:
 
 - ### Crestwood Behavioral Health, Inc.
 
