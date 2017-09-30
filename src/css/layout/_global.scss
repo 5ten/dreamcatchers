@@ -236,6 +236,13 @@ footer {
 
 .quotes {
 	padding:  2rem;
+	padding-left: $side-padding-mobile;
+	padding-right: $side-padding-mobile;			
+	@include media('small-screen') {
+		padding-left: $side-padding;
+		padding-right: $side-padding;			
+	}
+	
 	background:  $teal1;
 	color: #fff;
 	text-align: center;
@@ -294,7 +301,7 @@ footer {
 
 .pages main {
 	padding-bottom: 2rem;
-	p, h1, h2, h3, .quotes {
+	p, h1, h2, h3 {
 		padding-left: $side-padding-mobile;
 		padding-right: $side-padding-mobile;			
 		@include media('small-screen') {
