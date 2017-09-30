@@ -242,7 +242,7 @@ footer {
 		padding-left: $side-padding;
 		padding-right: $side-padding;			
 	}
-	
+
 	background:  $teal1;
 	color: #fff;
 	text-align: center;
@@ -260,7 +260,8 @@ footer {
 	&, li {
 		list-style-type: none;
 	}
-	& + * {
+	& + h2,
+	& + p {
 		margin-top: 2rem;
 	}
 }
@@ -300,7 +301,6 @@ footer {
 }
 
 .pages main {
-	padding-bottom: 2rem;
 	p, h1, h2, h3 {
 		padding-left: $side-padding-mobile;
 		padding-right: $side-padding-mobile;			
@@ -316,5 +316,8 @@ footer {
 			padding-left: $side-padding;
 			padding-right: $side-padding;			
 		}
+	}
+	p:last-child {
+		margin-bottom: 1.5rem;
 	}
 }

@@ -31,9 +31,12 @@
         
         $('#quotes ul, .for-employers main ul:nth-of-type(1)').slick({
             autoplay: true,
+            autoplaySpeed: 10000,
+            adaptiveHeight: true,            
             arrows: false,
+            dots: false,
             lazyLoad: 'progressive',
-            speed: 1000,
+            speed: 750,
             fade: true,
             cssEase: 'linear',
             initialSlide: rand,
