@@ -11,8 +11,6 @@ intro_link: /2016
 header_image: dreamcatchers/girl
 footer_image: dreamcatchers/flowers
 ---
-- “There's more than one way to save a life. It's not always liberating someone from a life threatening ordeal. Another way to do so is to alter someone's life in such a way that it literally pulls them out of an ever encompassing darkness. It is a darkness that consumes you when you've hit rock bottom and no matter what you do, you can't escape it. When people like you and your organization extends a hand to people with disabilities, you offer a way out of the darkness. The world is still a place for the survival of the fittest, and under normal circumstances, we would probably have perished without the help of others. But once we get that chance to change our lives, and strive beyond our means, we can take over and walk on our own. Dreamcatchers saves lives and that makes you heroes. So thank you so much for what you've done for all of us.”  _Scott H., Dreamcatcher client_
-
 - “Dreamcatchers gave people like me, with disabilities, to believe in themselves and become productive in their individual life. I have been assigned to different job networks, but Dreamcatchers is the best that made me trust myself to get back to work.” _Nancy_
 
 - “Thank you so much Dreamcatchers for finally letting me be a part of the American workforce and being a blessing in my life.”  _Christian_
