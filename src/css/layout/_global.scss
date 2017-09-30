@@ -163,15 +163,13 @@ footer {
 	}
 	h2 {
 		@extend .h1;
-		margin-bottom:0;
+		margin-top:0;
+		margin-bottom: 1rem;
 		color: $teal2;
 	}
-	p {
-		@extend .p1;
-		margin: 1rem 0;
+	.p1 {
+		padding-bottom: 1rem;
 	}
-
-
 }
 
 .links {
@@ -237,14 +235,26 @@ footer {
 }
 
 .quotes {
-	padding: 1rem 2rem;
+	padding:  2rem;
 	background:  $teal1;
 	color: #fff;
 	text-align: center;
 	@extend .h1;
+	em {
+		display: block;
+		margin-top: 0.5rem;
+		@extend .p1;
+		font-weight: normal;
+		&:before {
+			content: "- "
+		}
+	}
 	margin: 0;
 	&, li {
 		list-style-type: none;
+	}
+	& + * {
+		margin-top: 2rem;
 	}
 }
 
@@ -283,7 +293,8 @@ footer {
 }
 
 .pages main {
-	p, h1, h2, h3 {
+	padding-bottom: 2rem;
+	p, h1, h2, h3, .quotes {
 		padding-left: $side-padding-mobile;
 		padding-right: $side-padding-mobile;			
 		@include media('small-screen') {

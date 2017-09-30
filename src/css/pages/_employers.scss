@@ -4,6 +4,9 @@
 		@extend .quotes;
 	}
   	main ul:nth-of-type(2) {
+		@extend .zebra;
+	}
+  	main ul:nth-of-type(3) {
 		@extend .grid;
 	}
 }
