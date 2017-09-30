@@ -29,40 +29,48 @@ intro_title: >-
 header_image: dreamcatchers/flowers
 footer_image: dreamcatchers/dudes
 ---
-- ### Our Mission
+## Our Mission
+Our mission at Dreamcatchers Empowerment Network is to provide assessments, job preparation, job placement and job coaching to youth and adults with limitations and disabilities. We are dedicated to serving individuals in a collaborative manner, with a network of other agencies. Dreamcatchers services are directed at assisting individuals to prepare for, choose, obtain, and retain employment. Services are tailored to an individual's strengths, resources, priorities, needs, abilities, interests and informed choices.
+
+## Philosophy
+The philosophy at Dreamcatchers Empowerment Network is a client-centered approach to providing services with respect and dignity, as well as educating the community on the benefits of employing people with limitations. We believe that when an individual achieves meaningful employment, the community benefits from the exposure and contributions of individuals, who are frequently marginalized. Dreamcatchers employment services are key to fighting stigma and discrimination for individuals with limitations.
+
+We strive to create an environment that is participatory, goal-oriented, enjoyable, and holds trustworthiness and loyalty at the core of all we do.
+
+## Our Values
   
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+- ### Choice
+  ›  Provide clients with the information to make informed choices.
+  ›  Ownership of their destiny.
+- ### Empowerment
+  ›  Creating a focus on self-sufficiency rather than dependency.
+  ›  We show our clients their strengths and build on them by partnering with them to open doors.
+  ›  Providing encouragement to believe that they CAN!
+- ### Trust
+  ›  Building bridges of hope and honesty with clients and community.
+  ›  By being reliable, respecting confidentiality and treating each client with integrity.
+- ### Collaboration
+  ›  Incorporating diverse agencies and including our clients in the decision-making process.
+  ›  Teamwork makes the Dream Work.
+- ### Safety
+  ›  Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow.
+  ›  Make sure safety is first priority by ensuring and continually expanding safety practices.
 
-- ### Philosophy
-  
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 
-- ### Values
-  
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.  
+## Our Board
 
+- ### George C. Lytal
+  **Chairman of the Board** Mr. Lytal is President and CEO of Crestwood Behavioral Health Inc., California's largest mental health care services provider, and has been with the company for more than 37 years. He practices an inclusive management style that draws upon the strengths and abilities of the company's leadership team. He embraces and fosters a belief in client wellness and recovery and is an advocate against the stigma associated with mental illness. Mr. Lytal's personal philosophy emphasizes high standards and socially responsible business practices.
 
-- Team member quote here
+- ### Patricia Blum
+  Ms. Blum has been working in mental health care for more than 30 years, and has held both clinical and executive positions within the field. With a PhD degree in psychology and as a Certified Psychiatric Rehabilitation Practitioner (CPRP), she has pioneered mental health rehabilitation programs in residential and community settings. Ms. Blum is an advocate of mental health clients' rights and has presented stigma, trauma-informed care and mental health recovery topics at numerous local, national and international conferences.
 
+- ### Patricia Curtin
+  Ms. Curtin is a partner at the law firm of Wendel, Rosen, Black & Dean LLP. She also serves on the firm’s management committee. With 25 years of focused experience, Patricia advises clients on applicable planning, zoning and environmental laws, prepares land use applications, and obtains project approvals. She manages and directs development projects from inception to ribbon cutting and represents several public agencies as special land use counsel. She received her J.D. from University of the Pacific, McGeorge School of Law. Ms. Curtin is the recipient of the East Bay Commercial Real Estate Women 2013 “Sustained Leader ECHO Award” and recognized on the San Francisco Business Times’ 2015 list of “Most Influential Women in Business.” For more information, visit: www.wendel.com/pcurtin.
 
-## Who we are
+- ### Larry Kamer
+ **CEO**, Kamer Consulting Group LLC (www.kamergroup.com) and **Partner**, Prosper Group LLC (www.prospergroup.net). Management and communications consultant specializing in risk, controversy, and crisis. Advisor to agency owners on business strategy, succession, and exit planning.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+- ### Maria Stefanou
+  Ms. Stefanou has been a certified public accountant for more than 28 years. She has worked with clients in the transportation, pharmaceutical and healthcare industries. Her role as a financial manager has included the preparation and review of financial statements and tax returns, acquisitions and refinancings of real estate holdings and a liaison between her clients and the financial community. She is also a board member of Greencrest Insurance Company that provides reinsurance for workers compensation and general liability insurance. She became a board member of Dreamcatchers in 2002 because she strongly believed in their mission of empowering persons with disabilities to live independent lives.
 
-- ### Board Member
-  
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
-- ### Board Member
-  
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
-- ### Board Member
-  
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
-- ### Board Member
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
-- ### Board Member
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
