@@ -19,11 +19,6 @@ The goal of Dreamcatchers is to support and nurture the people seeking employmen
 
 Our client services are available to all individuals regardless of disability and they include:
 
-
-- ### Program Name
-  
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
 - ### Vocational Assessment 
 which assesses information about a client’s vocational interests, abilities and values. This information identifies basic work skills, work habits, work tolerances, work behaviors, and interpersonal skills of clients. Often times a transferable skill analysis is completed to help identify a vocational goal.
 
