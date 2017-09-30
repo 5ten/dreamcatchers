@@ -22,3 +22,14 @@ footer_image: dreamcatchers/flowers
 - “Best thing that has happened to me in a long time!” _Lynne_
  
 - “It has been inspiring, and eye opening to receive such encouragement.  I now believe I can do anything when I put my mind to it. Thank you!” _Paul_
+
+- "Thanks for all you have done to help me. Thank you most of all for believing in me, you have been such a positive person in my life and for that I say thank you so much." _Millie_
+
+- “My employment specialist pushed and encouraged me to get out there to meet with potential employers and community agencies that can help me to get a job.” _Anthony_
+
+- “Thanks again… I couldn't have done it without you!” _Michelle_
+
+- “Dreamcatchers is very supportive and encouraging, and I don’t think I would have been able to make myself do what I have done without them.” _Vicki_
+
+
+
