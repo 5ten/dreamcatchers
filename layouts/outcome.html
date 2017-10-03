@@ -1,50 +1,92 @@
 {{> header}}
-<div class="masthead" style="background-image: url({{ imgL image }})">
-    <h1>Outcome: {{title}}</h1>
+
+<div class="introduction">
+    <h2>Outcome: {{title}}</h2>
     <p>{{teaser}}</p>
 </div>
+
 <main data-year="{{year}}">
 
-	<div class="stat">
-		{{#if stat_1_percent}}
-			<div class="percent">{{stat_1_percent}}</div>
+
+	{{#if bigstat_value}}
+
+	<div class="bigstat">
+		<div class="value">{{bigstat_value}}</div>		
+		<div class="label">{{bigstat_label}}</div>
+	</div>
+	{{/if}}
+
+	<div class="graphstats">
+
+		{{#if graphstat_1_value}}
+		<div class="graphstat">
+			<div class="value">
+		        <div class="c100 p{{graphstat_1_value}} big">
+		            <span>{{graphstat_1_value}}%</span>
+		            <div class="slice">
+		                <div class="bar"></div>
+		                <div class="fill"></div>
+		            </div>
+		        </div>				
+			</div>
+			<div class="label">{{graphstat_1_label}}</div>
+		</div>
 		{{/if}}
-		<strong>{{stat_1_value}}</strong>
-		<p>{{stat_1_label}}</p>
+		{{#if graphstat_2_value}}
+		<div class="graphstat">
+			<div class="value">
+		        <div class="c100 p{{graphstat_2_value}} big">
+		            <span>{{graphstat_2_value}}%</span>
+		            <div class="slice">
+		                <div class="bar"></div>
+		                <div class="fill"></div>
+		            </div>
+		        </div>				
+			</div>
+			<div class="label">{{graphstat_2_label}}</div>
+		</div>
+		{{/if}}
+		{{#if graphstat_3_value}}
+		<div class="graphstat">
+			<div class="value">
+		        <div class="c100 p{{graphstat_3_value}} big">
+		            <span>{{graphstat_3_value}}%</span>
+		            <div class="slice">
+		                <div class="bar"></div>
+		                <div class="fill"></div>
+		            </div>
+		        </div>				
+			</div>
+			<div class="label">{{graphstat_3_label}}</div>
+		</div>
+		{{/if}}
+		
 	</div>
 
-	<div class="stat">
-		{{#if stat_2_percent}}
-			<div class="percent">{{stat_2_percent}}</div>
+	<div class="blockstats">
+		
+		{{#if blockstat_1_value}}
+		<div class="blockstat">
+			<div class="value">{{blockstat_1_value}}</div>
+			<div class="label">{{blockstat_1_label}}</div>
+		</div>	
 		{{/if}}
-		<strong>{{stat_2_value}}</strong>
-		<p>{{stat_2_label}}</p>
+
+		{{#if blockstat_2_value}}
+		<div class="blockstat">
+			<div class="value">{{blockstat_2_value}}</div>
+			<div class="label">{{blockstat_2_label}}</div>
+		</div>	
+		{{/if}}
+
 	</div>
 
-	<div class="stat">
-		{{#if stat_3_percent}}
-			<div class="percent">{{stat_3_percent}}</div>
-		{{/if}}
-		<strong>{{stat_3_value}}</strong>
-		<p>{{stat_3_label}}</p>
-	</div>
-
-	<div class="stat">
-		{{#if stat_4_percent}}
-			<div class="percent">{{stat_4_percent}}</div>
-		{{/if}}
-		<strong>{{stat_4_value}}</strong>
-		<p>{{stat_4_label}}</p>
-	</div>
-
-	<div class="stat">
-		{{#if stat_5_percent}}
-			<div class="percent">{{stat_5_percent}}</div>
-		{{/if}}
-		<strong>{{stat_5_value}}</strong>
-		<p>{{stat_5_label}}</p>
-	</div>
-
+	{{#if centerstat_value}}
+		<div class="centerstat">
+				<div class="label">{{centerstat_label}}</div>
+				<div class="value">{{centerstat_value}}</div>
+		</div>
+	{{/if}}
 
     {{{contents}}}
 

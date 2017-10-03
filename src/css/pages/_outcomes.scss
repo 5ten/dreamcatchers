@@ -1,0 +1,58 @@
+.outcomes {
+  // page stuff
+	.bigstat {
+		padding: 2rem;
+		background: $teal1;
+		color: #fff;
+		text-align:center;
+		.value {
+			font-size:6rem;
+			@extend .h1;
+		}
+		.label {
+			text-transform: uppercase;
+		}
+	}
+	.graphstats {
+		text-align:center;
+		padding:2rem 4rem;
+		.graphstat {
+			display: inline-block;
+			text-align:center;
+			width:33%;
+			.value {
+				height:20vw;
+			}
+			.label {
+				padding:1rem;
+			}
+		}		
+	}
+	.blockstats {
+		padding: 2rem 6rem;
+		background: $teal3;
+		color: #fff;
+		.blockstat {
+			width: 49.5%;
+			text-align:center;
+			display: inline-block;
+			.value {
+				@extend .h1;
+				font-size: 6rem;
+			}
+		}
+	}
+	.centerstat {
+		padding: 2rem;
+		text-align: center;
+		.label {
+			color: $teal2;
+		}
+		.value {
+			color: $teal3;
+			@extend .h1;
+			font-size: 4rem;
+		}
+	}
+}
+

@@ -13,7 +13,7 @@
     "metalsmith-metadata": "0.0.3",
     "metalsmith-permalinks": "~0.4.0",
     "metalsmith-to-json": "^0.1.7",
-    "metalsmith-writemetadata": "^0.4.5"    
+    "metalsmith-writemetadata": "^0.4.5"
   },
   "devDependencies": {
     "browser-sync": "^2.18.6",
@@ -21,10 +21,12 @@
     "gulp-copy": "^1.0.0",
     "gulp-favicons": "^2.2.7",
     "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.3.2",
     "gulp-metalsmith": "^1.1.0",
     "gulp-notify": "^3.0.0",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0",
-    "gulp-watch": "^4.3.11"
+    "gulp-watch": "^4.3.11",
+    "path": "^0.12.7"
   }
 }

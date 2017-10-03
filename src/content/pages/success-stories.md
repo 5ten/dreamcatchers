@@ -15,7 +15,7 @@ footer_image: dreamcatchers/flowers
 
 - “Thank you so much Dreamcatchers for finally letting me be a part of the American workforce and being a blessing in my life.”  _Christian_
 
-- “Super helpful, gives a lot of information in helping find a job, help in properly dress and act for an interview and what I need to bring with me for the interview and what questions to ask the interviewer.” - Diana
+- “Super helpful, gives a lot of information in helping find a job, help in properly dress and act for an interview and what I need to bring with me for the interview and what questions to ask the interviewer.” _Diana_
 
 - “I just wanted to say how much I appreciate all that you've done for me your help your words of encouragement you're keeping my head up when I didn't want to keep it up for myself.” _Vivian_
 

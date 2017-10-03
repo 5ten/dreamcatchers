@@ -1,3 +1,5 @@
+
+
 const gulp        = require('gulp');
 const metalsmith  = require('gulp-metalsmith');
 const imagemin    = require('gulp-imagemin');
@@ -7,6 +9,8 @@ const favicons    = require("gulp-favicons");
 const gulpCopy    = require('gulp-copy');
 const watch       = require('gulp-watch');
 const sass        = require('gulp-sass');
+const less        = require('gulp-less');
+const path        = require('path');
 
 var markdown      = require('metalsmith-markdown');
 var layouts       = require('metalsmith-layouts');
@@ -67,6 +71,7 @@ var reload        = browserSync.reload;
 
 var src = {
     scss: ['src/css/*.scss', 'src/css/**/*.scss'],
+    less: 'src/css/vendor/circle/circle.css',
     css:  'build/css',
     html: ['build/**/*.html', 'build/index.html']
 };
@@ -81,6 +86,7 @@ gulp.task('watch', function() {
           './src/content/*.md',
           './src/content/**/*.md',
           './src/scripts/*.js',
+          './src/css/vendor/circle/circle.less',
           './layouts/*.html'
         ], 
           ['reload']
@@ -89,18 +95,19 @@ gulp.task('watch', function() {
 
 
 // Static Server + watching scss/html files
-gulp.task('serve', ['sass'], function() {
+gulp.task('serve', ['sass','less'], function() {
 
     browserSync.init({
         server: "./build"
     });
 
     gulp.watch(src.scss, ['sass']);
+    gulp.watch(src.less, ['less']);
     gulp.watch(src.html).on('change', reload);
 });
 
 // Compile sass into CSS
-gulp.task('sass', function() {
+gulp.task('sass', ['less'], function() {
 
     var onError = function(err) {
 
@@ -186,7 +193,7 @@ gulp.task('metalsmith', function() {
 
         writemetadata({
           collections: {
-            projects: {
+            pages: {
               output: {
                 path: 'json-indexes/pages.json',
                 asObject: true,
@@ -196,7 +203,7 @@ gulp.task('metalsmith', function() {
               },
               ignorekeys: ['contents', 'next', 'previous', '_vinyl', 'stat', 'layout', 'collection']
             },
-            news: {
+            outcomes: {
               output: {
                 path: 'json-indexes/outcomes.json',
                 asObject: true,
@@ -206,7 +213,7 @@ gulp.task('metalsmith', function() {
               },
               ignorekeys: ['contents', 'next', 'previous', '_vinyl', 'stat', 'layout', 'collection']
             },
-            pages: {
+            successes: {
               output: {
                 path: 'json-indexes/successes.json',
                 asObject: true,
@@ -220,8 +227,17 @@ gulp.task('metalsmith', function() {
         }),
 
         permalinks({
-            pattern: ':title'
+            pattern: ':title',
+            linksets: [{
+                match: { collection: 'successes' },
+                pattern: 'success-stories/:title'
+            },
+            {
+                match: { collection: 'outcomes' },
+                pattern: 'outcomes/:title'
+            }]            
         }),
+
 
         layouts({
           engine: 'handlebars',
@@ -273,6 +289,17 @@ gulp.task('jsonindexes', function() {
     }))
     .pipe(gulp.dest('build/json'));
 });
+
+gulp.task('less', function () {
+  return gulp.src('src/css/vendor/circle/circle.less')
+    .pipe(less({
+      paths: [ path.join(__dirname, 'less', 'includes') ]
+    }))
+    .pipe(gulp.dest('src/css/vendor/circle/'));
+});
+
+
+
 
 
 gulp.task('imagemin', () =>
