@@ -69,6 +69,38 @@
 
         $('#successes-data').insertAfter($('#success-stories'));
 
+        $('.outcomes main > ul > li').each(function(){
+            
+            var $location = $(this);
+            $location.addClass('location-stat')
+            var $locationName = $location.find('> p');
+            var $locationStats1 = $location.find('> ul > li:first-child');
+            var $locationStats1Label = $locationStats1.text().split('=')[0];
+            var $locationStats1Value = $locationStats1.text().split('=')[1];
+
+            var $locationStatsOther = $location.find('> ul > li').not(':first-child').not(':last-child');
+
+            // console.log($locationStats1Label, $locationStats1Value);
+            // console.log($locationStatsOther);
+            
+            $locationStatsOther.each(function(){
+                var $row = $(this);
+                var $rowStatLabel = $row.text().split('=')[0];
+                var $rowStatValue = $row.text().split('=')[1];
+                $row.addClass('other-stat');
+                $row.wrapInner('<i/>');
+                $row.append('<div class="value">'+ $rowStatValue + '</div>')
+                $row.append('<div class="label">'+ $rowStatLabel + '</div>')
+                console.log($rowStatLabel, $rowStatValue);
+
+            });
+
+            $locationStats1.hide();
+
+            $locationName.append('<span>' + $locationStats1Label + '</span>');
+            $locationName.append('<span>' + $locationStats1Value + '</span>');
+        });
+
 	/* end initialize */
 	});
 })(jQuery);
