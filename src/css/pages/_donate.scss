@@ -3,4 +3,12 @@
   	main ul:nth-of-type(1) {
 		@extend .zebra;
 	}
+
+	form button {
+		margin-left: $side-padding-mobile;
+		@include media('small-screen') {
+			margin-left: $side-padding;	
+		}
+		
+	}
 }

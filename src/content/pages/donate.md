@@ -17,7 +17,12 @@ intro_body: >-
 All donations will be confirmed with an acknowledgment and receipt for tax purposes. For questions, please contact Dreamcatchers at info@dreamcatch.us or 707-558-1775.
 
 - ### Donate online
-  [Donate](/paypal) through PayPal.
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="VQKQZUWZD69JW">
+    <button>Donate Now</button>
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" style="display:none" width="1" height="1">
+  </form>
 
 - ### Donate by check / mail
   Please make your check payable to Dreamcatchers Empowerment Network and send to: 
