@@ -8,6 +8,9 @@
 }
 html {
     font-size:$rem-base;
+  @include media('mini') {
+    font-size:$rem-base-mini;
+  }
   @include media('small-screen') {
     font-size:$rem-base-relative;
   }  
