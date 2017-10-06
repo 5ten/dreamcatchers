@@ -1,7 +1,7 @@
 .donate {
   // page stuff
   	main ul:nth-of-type(1) {
-		@extend .zebra;
+		@extend .listing;
 	}
 
 	form button {

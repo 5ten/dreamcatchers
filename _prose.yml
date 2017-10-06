@@ -7,37 +7,32 @@ prose:
       name: title
     - field: {element: text, label: Year}
       name: year
-    - field: {element: text, label: Stat 1 Value}
-      name: stat_1_value
-    - field: {element: text, label: Stat 1 Percent}
-      name: stat_1_percent
-    - field: {element: text, label: Stat 1 Label}
-      name: stat_1_label
-    - field: {element: text, label: Stat 2 Value}
-      name: stat_2_value
-    - field: {element: text, label: Stat 2 Percent}
-      name: stat_2_percent
-    - field: {element: text, label: Stat 2 Label}
-      name: stat_2_label
-    - field: {element: text, label: Stat 3 Value}
-      name: stat_3_value
-    - field: {element: text, label: Stat 3 Percent}
-      name: stat_3_percent
-    - field: {element: text, label: Stat 3 Label}
-      name: stat_3_label
-    - field: {element: text, label: Stat 4 Value}
-      name: stat_4_value
-    - field: {element: text, label: Stat 4 Percent}
-      name: stat_4_percent
-    - field: {element: text, label: Stat 4 Label}
-      name: stat_4_label
-    - field: {element: text, label: Stat 5 Value}
-      name: stat_5_value
-    - field: {element: text, label: Stat 5 Percent}
-      name: stat_5_percent
-    - field: {element: text, label: Stat 5 Label}
-      name: stat_5_label
-    - field: {element: hidden, value: outcome.html}
+    - field: {element: text, label: bigstat_value}
+      name: bigstat_value
+    - field: {element: text, label: bigstat_label}
+      name: bigstat_label
+    - field: {element: text, label: graphstat_1_value}
+      name: graphstat_1_value
+    - field: {element: text, label: graphstat_1_label}
+      name: graphstat_1_label
+    - field: {element: text, label: graphstat_2_value}
+      name: graphstat_2_value
+    - field: {element: text, label: graphstat_2_label}
+      name: graphstat_2_label
+    - field: {element: text, label: graphstat_3_value}
+      name: graphstat_3_value
+    - field: {element: text, label: graphstat_3_label}
+      name: graphstat_3_label
+    - field: {element: text, label: blockstat_1_value}
+      name: blockstat_1_value
+    - field: {element: text, label: blockstat_1_label}
+      name: blockstat_1_label
+    - field: {element: text, label: blockstat_2_value}
+      name: blockstat_2_label
+    - field: {element: text, label: centerstat_value}
+      name: centerstat_value
+    - field: {element: text, label: centerstat_label}
+      name: centerstat_label
       name: layout
     - field: {element: hidden, value: outcomes}
       name: collection

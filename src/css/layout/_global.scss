@@ -45,7 +45,7 @@ header, footer {
 	}
 	.navigation {
 		display: none;
-		padding: 2rem  0;
+		padding: 1.5rem  0;
 		@include media('small-screen') {
 			display:block;
 			float: left;
@@ -268,6 +268,25 @@ footer {
 }
 
 
+.listing {
+	&, li {
+		list-style-type: none;
+		padding:0;
+		margin:0;
+	}
+	li {
+		padding-top:1rem;
+		padding-bottom:1rem;
+	} 
+	.link {
+		display: inline-block;
+		margin-top: 1rem;
+	}
+	p {
+		margin-bottom:0 !important;
+	}	
+}
+
 .zebra {
 	&, li {
 		list-style-type: none;
@@ -285,6 +304,9 @@ footer {
 	.link {
 		display: inline-block;
 		margin-top: 1rem;
+	}
+	p:last-child {
+		margin-bottom:0 !important;
 	}
 }
 
@@ -321,4 +343,8 @@ footer {
 	p:last-child {
 		margin-bottom: 1.5rem;
 	}
+}
+
+main + img {
+	margin-top:2rem;
 }

@@ -1,10 +1,10 @@
 .about-us {
   // page stuff
   	main ul:nth-of-type(1) {
-		@extend .zebra;
+		@extend .listing;
 	}
   	main ul:nth-of-type(2) {
-		@extend .zebra;
+		@extend .listing;
 	}
 
 }
