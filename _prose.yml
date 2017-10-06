@@ -33,6 +33,7 @@ prose:
       name: centerstat_value
     - field: {element: text, label: centerstat_label}
       name: centerstat_label
+    - field: {element: hidden, value: outcome.html}
       name: layout
     - field: {element: hidden, value: outcomes}
       name: collection
