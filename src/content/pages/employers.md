@@ -12,7 +12,7 @@ intro_body: >-
   positive ways! We work in cooperation with local businesses, organizations and
   agencies to provide the necessary services that offer our clients the
   opportunity to become permanently employed.
-header_image: dreamcatchers/dreamcatchers-florist2
+header_image: dreamcatchers/dreamcatchers-warehouse
 footer_image: dreamcatchers/footer-employers1
 ---
 
