@@ -13,6 +13,7 @@ intro_body: >-
   work we are doing to help clients explore their dreams of becoming employed
   and self-sufficient. Thank you.
 footer_image: dreamcatchers/footer-donate1
+header_image: dreamcatchers/dreamcatchers-shop
 ---
 ## Ways to Donate
 All donations will be confirmed with an acknowledgment and receipt for tax purposes. For questions, please contact Dreamcatchers at info@dreamcatch.us or 707-558-1775.
