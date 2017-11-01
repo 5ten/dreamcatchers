@@ -9,7 +9,7 @@ intro_body: >-
   vocational services that empower clients to live and succeed in their
   community.
 intro_title: Our Vision
-header_image: dreamcatchers/flowers
+header_image: dreamcatchers/dreamcatchers-cafe2
 footer_image: dreamcatchers/footer-about1
 ---
 ## Our Mission
