@@ -39,5 +39,5 @@ link_3_body: Success means more when we find it together.
 link_3_text: Sucesses & Outcomes
 link_3_url: /outcomes
 slider_image: dreamcatchers/dreamcatchers-groceryman
-footer_image: dreamcatchers/DRM-WEB-EXTENSIONS-PART1-2
+footer_image: dreamcatchers/footer-home
 ---
