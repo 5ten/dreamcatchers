@@ -13,7 +13,7 @@ intro_body: >-
   agencies to provide the necessary services that offer our clients the
   opportunity to become permanently employed.
 header_image: dreamcatchers/dudes
-footer_image: dreamcatchers/flowers
+footer_image: dreamcatchers/footer-employers1
 ---
 
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
