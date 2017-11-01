@@ -49,12 +49,8 @@ Once you hire one of our candidates, our team is here to support not only our cl
 
 
 ## Partners
-- logo
-- logo 
-- logo
-- logo
-- logo
-- logo
+![grocery.png]({{site.baseurl}}/src/content/media/grocery.png)
+
 
 ## Join the Network
 Contact us to learn more about partnership opportunities. Give us a call at our main office, 707-558-1775, or email us at info@dreamcatch.us and let us go to work for you!
