@@ -9,7 +9,7 @@ intro_body: Success is only achieved when we work together.
 intro_link_text: Outcomes
 intro_link: /outcomes/2016
 header_image: dreamcatchers/girl
-footer_image: dreamcatchers/flowers
+footer_image: dreamcatchers/footer-success1
 ---
 - “Dreamcatchers gave people like me, with disabilities, to believe in themselves and become productive in their individual life. I have been assigned to different job networks, but Dreamcatchers is the best that made me trust myself to get back to work.” _Nancy_
 
@@ -30,6 +30,3 @@ footer_image: dreamcatchers/flowers
 - “Thanks again… I couldn't have done it without you!” _Michelle_
 
 - “Dreamcatchers is very supportive and encouraging, and I don’t think I would have been able to make myself do what I have done without them.” _Vicki_
-
-
-
