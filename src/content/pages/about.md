@@ -10,7 +10,7 @@ intro_body: >-
   community.
 intro_title: Our Vision
 header_image: dreamcatchers/flowers
-footer_image: dreamcatchers/dudes
+footer_image: dreamcatchers/footer-about
 ---
 ## Our Mission
 Our mission at Dreamcatchers Empowerment Network is to provide assessments, job preparation, job placement and job coaching to youth and adults with limitations and disabilities. We are dedicated to serving individuals in a collaborative manner, with a network of other agencies. Dreamcatchers services are directed at assisting individuals to prepare for, choose, obtain, and retain employment. Services are tailored to an individual's strengths, resources, priorities, needs, abilities, interests and informed choices.
