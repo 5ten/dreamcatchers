@@ -49,7 +49,10 @@ Once you hire one of our candidates, our team is here to support not only our cl
 
 
 ## Partners
-![grocery.png]({{site.baseurl}}/src/content/media/grocery.png)
+![grocery1.png]({{site.baseurl}}/src/content/media/grocery1.png)
+![havitat1.png]({{site.baseurl}}/src/content/media/havitat1.png)
+![wallgreens.png]({{site.baseurl}}/src/content/media/wallgreens.png)
+
 
 
 ## Join the Network
