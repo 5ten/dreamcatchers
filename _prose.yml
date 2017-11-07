@@ -44,10 +44,9 @@ prose:
       name: meta_description
     - field: {element: textarea, label: Meta Title}
       name: meta_title
-    - field: {api_key: 0, cloud_name: cloudnamehere, element: cloudinary, help: Select
-          an image here and it will be directly uploaded to Cloudinary, label: Image,
-        upload_preset: aaaaaaaaaa}
-      name: image
+    - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
+        help: Select a file, label: PDF, upload_preset: dreamcatchers}
+      name: file
     src/content/pages:
     - field: {element: text, label: Title}
       name: title
