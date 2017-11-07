@@ -5,6 +5,7 @@
 	}
   	main ul:nth-of-type(2) {
 		@extend .listing;
+		margin-left:2rem;
 	}
   	main ul:nth-of-type(3) {
 		@extend .grid;
