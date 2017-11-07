@@ -3,7 +3,9 @@
   	main ul:nth-of-type(1) {
 		@extend .listing;
 	}
-
+  	main ul:nth-of-type(2) {
+		@extend .grid;
+	}
 	form button {
 		margin-left: $side-padding-mobile;
 		@include media('small-screen') {

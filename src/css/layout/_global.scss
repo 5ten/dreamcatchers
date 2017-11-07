@@ -311,7 +311,7 @@ footer {
 }
 
 .grid {
-	padding: $side-padding/2 $side-padding;
+	padding: $side-padding/2 $side-padding/2;
 	background: $ltgrey;
 	&, li {
 		list-style-type: none;
@@ -319,6 +319,10 @@ footer {
 	li {
 		float:left;
 		width:33%;
+		background: $ltgrey;
+		img {
+			margin:0 2px;
+		}
 	}
 	@include clearfix;
 }
@@ -344,6 +348,7 @@ footer {
 		margin-bottom: 1.5rem;
 	}
 }
+
 
 // main + img {
 // 	margin-top:2rem;
