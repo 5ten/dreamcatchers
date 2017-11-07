@@ -173,14 +173,20 @@
 			background: $teal1;
 			width: 100%;
 			strong {
-				display: inline-block;
 				vertical-align: middle;
-				width:15%;
+				@include media('small-screen') {
+					width:15%;
+					display: inline-block;
+				}
 				&:first-child,
 				&:last-child {
 					font-size: 1rem;	
 					font-weight: normal;
-					width:30%;
+					@include media('small-screen') {
+						width:15%;
+						display: inline-block;
+					}
+
 				}
 			}
 
