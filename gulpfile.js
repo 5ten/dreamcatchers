@@ -36,7 +36,7 @@ handlebars.registerHelper('imgL', function(str) {
 });
 
 handlebars.registerHelper('pdfurl', function(str) {
-  return '//res.cloudinary.com/fiveten/image/upload/c_scale,q_auto:good,w_1500/'+str+'.jpg';
+  return '//res.cloudinary.com/fiveten/image/upload/c_scale,q_auto:good,w_1500/'+str+'.pdf';
 });
 
 handlebars.registerHelper('imgS', function(str) {
