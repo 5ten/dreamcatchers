@@ -33,5 +33,10 @@ All donations will be confirmed with an acknowledgment and receipt for tax purpo
   1125 Missouri Street Ste. 302<br>
   Fairfield CA 94533
 
+## Some Images
+- ![grocery1.png](/content/media/grocery1.png)
+- ![havitat1.png](/content/media/havitat1.png)
+- ![wallgreens.png](/content/media/wallgreens.png)
+
 ## Thank You
 Thank you to our recent donors: Thank you to our generous donors for their contributions to Dreamcatchers! Their donations make a huge difference in our clients’ lives and allow Dreamcatchers to continue this important work.
