@@ -103,7 +103,8 @@
 		li > ul > li:first-of-type {
 			display: none;
 		}
-		li > ul > li:last-of-type {
+		li > ul > li:nth-of-type(2) {
+			margin: 1rem 0;
 			background: $teal1;
 			padding: .25rem;
 			font-size: .8rem;
@@ -150,6 +151,40 @@
 			display: none;
 		}
 
+	}
+	main > ul:last-of-type {
+		color: #fff;
+		background: $teal2;
+		@include clearfix;
+		list-style-type: none;
+		margin:0;
+		padding:0;
+		li {
+			float: left;
+			width: 50%;
+			padding:1rem;
+			strong {
+				clear: both;
+				display: block;
+				font-size: 4rem;
+			}
+		}
+		li:nth-child(1) {
+			background: $teal1;
+			width: 100%;
+			strong {
+				display: inline-block;
+				vertical-align: middle;
+				width:15%;
+				&:first-child,
+				&:last-child {
+					font-size: 1rem;	
+					font-weight: normal;
+					width:30%;
+				}
+			}
+
+		}
 	}
 	.year-buttons {
 		text-align:center;

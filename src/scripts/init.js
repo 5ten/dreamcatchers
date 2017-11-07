@@ -78,7 +78,7 @@
             var $locationStats1Label = $locationStats1.text().split('=')[0];
             var $locationStats1Value = $locationStats1.text().split('=')[1];
 
-            var $locationStatsOther = $location.find('> ul > li').not(':first-child').not(':last-child');
+            var $locationStatsOther = $location.find('> ul > li').not(':first-child').not(':nth-child(2)');
 
             // console.log($locationStats1Label, $locationStats1Value);
             // console.log($locationStatsOther);
