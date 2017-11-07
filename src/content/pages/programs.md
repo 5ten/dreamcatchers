@@ -13,6 +13,10 @@ intro_body: >-
 header_image: dreamcatchers/dreamcatchers-florist2
 footer_image: dreamcatchers/footer-programs1
 ---
+
+- “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
+- “Working with Dreamcatchers at Walgreen’s has been a great learning experience concerning the benefits of working with people with disabilities.” _Tyler, Store Manager, Walgreen’s_
+
 Our services include helping individuals obtain Social Security cards, teaching them how to take public transportation, and educating them about the importance of attendance, punctuality, appearance and attitude.  We work with clients on their verbal, writing and multi-tasking skills, as well as how to interact with supervisors and co-workers.  Many have never interviewed for a job so we help them prepare resumes, role play interviews, teach them how to job search and submit applications, and how to maintain employment once employed.
 
 ## Programs & Services
