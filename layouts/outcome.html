@@ -90,6 +90,12 @@
 
     {{{contents}}}
 
+	{{#if pdf}}
+		<div class="pdf">
+			<a class="button" href="{{pdfurl pdf}}">Download a PDF</a>
+		</div>	
+	{{/if}}
+
     {{#if outcomes}}
     <div class="year-buttons">
 		{{#each outcomes}}
