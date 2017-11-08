@@ -15,7 +15,7 @@ spotlight_item_link: /outcomes
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
-slider_button_link: /about
+slider_button_link: /about-us
 intro_link_text: Support Us
 intro_link: /donate
 meta_description: >-
