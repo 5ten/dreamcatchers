@@ -132,8 +132,8 @@ prose:
     - field: {element: text, label: Spotlight Item Link}
       name: spotlight_item_link
     - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
-        help: Select an image to upload, label: Footer Image, upload_preset: dreamcatchers
-      name: footer_image}
+        help: Select an image to upload, label: Footer Image, upload_preset: dreamcatchers}
+      name: footer_image
     src/content/successes:
     - field: {element: text, label: Title}
       name: title
