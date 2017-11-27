@@ -41,6 +41,10 @@ Our client services are available to all individuals regardless of disability an
 ## Private Contract Services
 Dreamcatchers provides Employment Services and Paid Work Assessments through private contracts to governmental and private agencies throughout the counties in which we provide services. 
 
+ - ![grocery1.png](/content/media/grocery1.png)
+ - ![havitat1.png](/content/media/havitat1.png)
+ - ![wallgreens.png](/content/media/wallgreens.png)
+
 - ### Sparkpoint Solano
   
   Sparkpoint was developed by United Way, brings together free community resources to help families grow and prosper. The center is a one-stop location for a full-range of services, including financial coaching, as well as programs that help families move up the career ladder, build assets and manage their credit. We work together to help achieve goals by offering such services as:
