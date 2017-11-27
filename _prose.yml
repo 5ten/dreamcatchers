@@ -141,6 +141,8 @@ prose:
       name: date
     - field: {element: textarea, label: Teaser}
       name: teaser
+    - field: {element: text, label: Link}
+      name: link      
     - field: {element: hidden, value: success.html}
       name: layout
     - field: {element: hidden, value: successes}
