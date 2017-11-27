@@ -24,26 +24,19 @@ The goal of Dreamcatchers is to support and nurture the people seeking employmen
 
 Our client services are available to all individuals regardless of disability and they include:
 
-- ### Vocational Assessment 
-which assesses information about a client’s vocational interests, abilities and values. This information identifies basic work skills, work habits, work tolerances, work behaviors, and interpersonal skills of clients. Often times a transferable skill analysis is completed to help identify a vocational goal.
+**Vocational Assessment** which assesses information about a client’s vocational interests, abilities and values. This information identifies basic work skills, work habits, work tolerances, work behaviors, and interpersonal skills of clients. Often times a transferable skill analysis is completed to help identify a vocational goal.
 
-- ### External Situational 
-Assessment provides paid work experience through external situational assessments and is a community-based service used to identify each client's current level of employability. We place the client in a safe, supervised and supported real work environment within the community, with a Dreamcatchers staff member acting as the hands-on trainer for the client. Assessments identify strengths and barriers for a specific employment site in order to enhance job placement and retention.
+**External Situational Assessment** provides paid work experience through external situational assessments and is a community-based service used to identify each client's current level of employability. We place the client in a safe, supervised and supported real work environment within the community, with a Dreamcatchers staff member acting as the hands-on trainer for the client. Assessments identify strengths and barriers for a specific employment site in order to enhance job placement and retention.
 
-- ### Work Adjustment 
-programs are on an individual basis and we utilize real work situations to help clients understand the meaning, value and demands of a job and to establish skills, attitudes, personal characteristics, and appropriate work behaviors that can lead to a successful and sustained employment experience. An individual work adjustment program is for clients who have been placed in a community-based job setting and are working with employees. This program identifies specific barriers to employment that the client will focus on during the work adjustment period.
+**Work Adjustment Programs** are on an individual basis and we utilize real work situations to help clients understand the meaning, value and demands of a job and to establish skills, attitudes, personal characteristics, and appropriate work behaviors that can lead to a successful and sustained employment experience. An individual work adjustment program is for clients who have been placed in a community-based job setting and are working with employees. This program identifies specific barriers to employment that the client will focus on during the work adjustment period.
 
-- ### Employment Preparation
-services help prepare clients for employment with an organized, structured curriculum that provides training on an individual basis, including the development of a resume, a master application and role playing interviews.
+**Employment Preparation Services** help prepare clients for employment with an organized, structured curriculum that provides training on an individual basis, including the development of a resume, a master application and role playing interviews.
 
-- ### Job Development 
-provides a structured, systematic job development and placement services for clients. The client directs the job development process by specifying the general course of the job search, while Dreamcatchers conducts a targeted job search in order to accommodate individual client desires.
+**Job Development** provides a structured, systematic job development and placement services for clients. The client directs the job development process by specifying the general course of the job search, while Dreamcatchers conducts a targeted job search in order to accommodate individual client desires.
 
-- ### Job Coaching 
-provides individual client assistance and support on or off the job for employment-related activities. This assists clients who are adjusting to a job and includes transportation training, onsite job orientation, hands-on training at the worksite and job task analysis.
+**Job Coaching**provides individual client assistance and support on or off the job for employment-related activities. This assists clients who are adjusting to a job and includes transportation training, onsite job orientation, hands-on training at the worksite and job task analysis.
 
-- ### Retention 
-is provided by our employment specialists after a client's job placement, to maintain employer contact to ensure client progress, employer satisfaction and job success. This includes telephone calls, personal visits or other means of contact to support the client's continued employment.
+**Retention** is provided by our employment specialists after a client's job placement, to maintain employer contact to ensure client progress, employer satisfaction and job success. This includes telephone calls, personal visits or other means of contact to support the client's continued employment.
 
 ## Private Contract Services
 Dreamcatchers provides Employment Services and Paid Work Assessments through private contracts to governmental and private agencies throughout the counties in which we provide services. 
