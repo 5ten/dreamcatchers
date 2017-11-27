@@ -29,7 +29,7 @@
             }
         });    
         
-        $('#quotes ul, .for-employers main ul:nth-of-type(1), .our-programs main ul:nth-of-type(1), .about-us main ul:nth-of-type(1)').slick({
+        $('#quotes ul, .for-employers main ul:nth-of-type(1), .our-programs main > ul:nth-of-type(1), .about-us main ul:nth-of-type(1)').slick({
             autoplay: true,
             autoplaySpeed: 10000,
             adaptiveHeight: true,            
