@@ -19,8 +19,6 @@ footer_image: dreamcatchers/footer-employers1
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
 - “Working with Dreamcatchers at Walgreen’s has been a great learning experience concerning the benefits of working with people with disabilities.” _Tyler, Store Manager, Walgreen’s_
 
-We work in cooperation with local businesses, organizations and agencies to provide the necessary services that offer our clients the opportunity to become permanently employed. 
-
 ## Why Work with Dreamcatchers?
 Dreamcatchers has been providing employment services for more than 15 years and  we are happy to answer any questions you might have and provide you with references. Our services are offered throughout Butte, Contra Costa, Placer, Sacramento, Solano and Yolo counties.
 
@@ -45,7 +43,7 @@ When you have a job opening, we can save you time and money by providing you wit
 If you hire one of our candidates, you may qualify to receive payment from the state for “On the Job Training” and you may also qualify for Work Opportunity Tax Credits. These programs can save you thousands of dollars. Please contact us for more information on these programs.
  
 - ### RETENTION AND JOB COACHING SUPPORT
-Once you hire one of our candidates, our team is here to support not only our client while they are working for you, but also you as a valuable employer.  We want to ensure that you are happy with your hire and our client is performing to your standards.  Support services are generally available for 
+Once you hire one of our candidates, our team is here to support not only our client while they are working for you, but also you as a valuable employer.  We want to ensure that you are happy with your hire and our client is performing to your standards.  Support services are generally available for up to 90-days
 
 
 ## Partners
@@ -56,4 +54,4 @@ Once you hire one of our candidates, our team is here to support not only our cl
 
 
 ## Join the Network
-Contact us to learn more about partnership opportunities. Give us a call at our main office, 707-558-1775, or email us at info@dreamcatch.us and let us go to work for you!
+Contact us to learn more about partnership opportunities. Give us a call at our main office, 707-558-1775, or email us at [info@dreamcatch.us](mailto:info@dreamcatch.us) and let us go to work for you!
