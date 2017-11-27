@@ -44,13 +44,13 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
 - ### Sparkpoint Solano
   
   Sparkpoint was developed by United Way, brings together free community resources to help families grow and prosper. The center is a one-stop location for a full-range of services, including financial coaching, as well as programs that help families move up the career ladder, build assets and manage their credit. We work together to help achieve goals by offering such services as:
-- Find a job
-- Build your credit
-- Manage your credit
-- ·Go back to school
-- Get free tax help
-- Keep your home
-- Locate child care
+  - Find a job
+  - Build your credit
+  - Manage your credit
+  - ·Go back to school
+  - Get free tax help
+  - Keep your home
+  - Locate child care
 
 Dreamcatchers Empowerment Network provides employment related services to the local community members of the Sparkpoint center. Our job developer offers employment workshops, employment counseling, and referrals to resources as well as placement opportunities to those individuals within the community. Clients receive one-to-one services with the Job Development staff in order to complete a resume and direct interview skills training. Clients will also work with the Job Developer to obtain job leads and placement assistance. Participants may be placed into educational, training or employment opportunities.
 
