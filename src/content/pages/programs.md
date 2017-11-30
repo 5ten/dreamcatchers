@@ -60,6 +60,7 @@ Dreamcatchers Empowerment Network provides employment related services to the lo
 
 Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
 
+<hr>
 ## Private Facility Contracts: 
 
 - ### Crestwood Behavioral Health, Inc.
