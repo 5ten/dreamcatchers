@@ -3,6 +3,7 @@ collection: pages
 published: true
 order: 7
 title: Contact
+layout: page.html
 ---
 ## A New Post
 
