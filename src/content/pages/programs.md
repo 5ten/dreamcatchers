@@ -51,7 +51,7 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
   - Find a job
   - Build your credit
   - Manage your credit
-  - ·Go back to school
+  - Go back to school
   - Get free tax help
   - Keep your home
   - Locate child care
