@@ -36,7 +36,7 @@ All donations will be confirmed with an acknowledgment and receipt for tax purpo
 ### Shop online through Amazon Smile!
 You can now shop on [AmazonSmile](https://smile.amazon.com/ch/71-0877008) and help support Dreamcatchers Empowerment Network at the same time at no cost to you! the AmazonSmile Foundation will donate 0.5% of your purchases to Dreamcatchers each and every time!
 
-[Click here to shop using Amazon Smile!](https://smile.amazon.com/ch/71-0877008)
+**[Click here to shop using Amazon Smile!]**(https://smile.amazon.com/ch/71-0877008)
 
 ### Thank You
 Thank you to our recent donors: Thank you to our generous donors for their contributions to Dreamcatchers! Their donations make a huge difference in our clients’ lives and allow Dreamcatchers to continue this important work.
