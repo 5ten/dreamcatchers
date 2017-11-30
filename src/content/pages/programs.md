@@ -60,9 +60,11 @@ Dreamcatchers Empowerment Network provides employment related services to the lo
 
 Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
 
+**Private Facility Contracts**: 
+
 - ### Crestwood Behavioral Health, Inc.
 
-  **Private Facility Contracts**: Dreamcatchers Empowerment Network was created in 2000 by Crestwood Behavioral Health, Inc. (California’s largest provider of mental health services) to provide services to people with mental health issues who were reintegrating into the community with the personal goal of independence.
+  Dreamcatchers Empowerment Network was created in 2000 by Crestwood Behavioral Health, Inc. (California’s largest provider of mental health services) to provide services to people with mental health issues who were reintegrating into the community with the personal goal of independence.
   
   Contracts currently exist between Dreamcatchers and thirteen (13) Crestwood campuses throughout the state of California. These contracts cover resident wages for jobs performed within the campuses, providing vocational training to help individuals become more marketable when transitioning back into the community. Residents work up to 6 hours per month in a variety of different positions within each campus and out in the community.
   
