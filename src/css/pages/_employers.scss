@@ -4,8 +4,7 @@
 		@extend .quotes;
 	}
   	main ul:nth-of-type(2) {
-		@extend .listing;
-		margin-left:2rem;
+		list-style-type: none;
 	}
   	main ul:nth-of-type(3) {
 		@extend .grid;
