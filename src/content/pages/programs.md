@@ -79,5 +79,5 @@ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoin
   The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment.
 
 ## Program Contact Info
-Contact us to learn more about our Programs and Services 707-558-1775
-[Contact](/contact)
+To learn more about our Programs and Services:
+Call 707-558-1775 or [Send us an email](mailto:dommoreci@mac.com)
