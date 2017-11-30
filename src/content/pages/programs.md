@@ -38,7 +38,7 @@ Our client services are available to all individuals regardless of disability an
 
 **Retention** is provided by our employment specialists after a client's job placement, to maintain employer contact to ensure client progress, employer satisfaction and job success. This includes telephone calls, personal visits or other means of contact to support the client's continued employment.
 
-
+<br>
 ## Private Contract Services
 Dreamcatchers provides Employment Services and Paid Work Assessments through private contracts to governmental and private agencies throughout the counties in which we provide services. 
 
@@ -61,7 +61,7 @@ Dreamcatchers Empowerment Network provides employment related services to the lo
 
 Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
 
-
+<br>
 ## Private Facility Contracts: 
 
 - ### Crestwood Behavioral Health, Inc.
