@@ -70,7 +70,7 @@ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoin
 
 - ### Butte County Behavioral Health
   
-  (2015- Current) Dreamcatchers began providing Supported Employment - Paid Work Experience to	individuals receiving services through Butte County Behavioral Health in July 2015. 
+  (2015- Current) Dreamcatchers began providing Supported Employment - Paid Work Experience to	individuals receiving services through Butte County Behavioral Health in July 2015.
   
   With a variety of positions available in-house with Butte County Behavioral Health, as well as those out in the community, individuals are able to gain skills and knowledge of working with the support of a Job Coach. Candidates submit an application for the open positions in which they are interviewed and once hired; they are able to hold the position for up to 9 months. Throughout the process, Dreamcatchers is providing feedback and support to prepare each individual for employment or assisting them to obtain volunteer experience.
   
