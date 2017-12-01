@@ -54,4 +54,6 @@ Once you hire one of our candidates, our team is here to support not only our cl
 
 
 ## Join the Network
-Contact us to learn more about partnership opportunities. Give us a call at our main office, 707-558-1775, or email us at [info@dreamcatch.us](mailto:info@dreamcatch.us) and let us go to work for you!
+For more employer information<br>
+Contact: Debra Reynolds, Program Operations Director
+<br>707-558-1775 or [Send an email](mailto:dreynolds@dreamcatch.us)
