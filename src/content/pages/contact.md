@@ -6,6 +6,7 @@ title: Contact
 layout: page.html
 footer_image: dreamcatchers/footer-employers1
 header_image: dreamcatchers/dreamcatchers-grocery2
+intro_title: How to Reach Us
 ---
 _Dreamcatchers Empowerment Network
 "Empowering through Employment"_
