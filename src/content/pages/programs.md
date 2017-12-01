@@ -82,4 +82,5 @@ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoin
 
 ## Program Contact Info
 To learn more about our Programs and Services<br>
-Contact: Debra Reynolds, Program Operations Director, 707-558-1775 or [Send an email](mailto:dreynolds@dreamcatch.us)
+Contact: Debra Reynolds, Program Operations Director
+<br>707-558-1775 or [Send an email](mailto:dreynolds@dreamcatch.us)
