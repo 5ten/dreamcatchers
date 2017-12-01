@@ -43,8 +43,7 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 
 ## Our Board
 
-- ### George C. Lytal
-  **Chairman of the Board** Mr. Lytal is President and CEO of Crestwood Behavioral Health Inc., California's largest mental health care services provider, and has been with the company for more than 37 years. He practices an inclusive management style that draws upon the strengths and abilities of the company's leadership team. He embraces and fosters a belief in client wellness and recovery and is an advocate against the stigma associated with mental illness. Mr. Lytal's personal philosophy emphasizes high standards and socially responsible business practices.
+  **George C. Lytal: Chairman of the Board** Mr. Lytal is President and CEO of Crestwood Behavioral Health Inc., California's largest mental health care services provider, and has been with the company for more than 37 years. He practices an inclusive management style that draws upon the strengths and abilities of the company's leadership team. He embraces and fosters a belief in client wellness and recovery and is an advocate against the stigma associated with mental illness. Mr. Lytal's personal philosophy emphasizes high standards and socially responsible business practices.
 
 - ### Patricia Blum
   Ms. Blum has been working in mental health care for more than 30 years, and has held both clinical and executive positions within the field. With a PhD degree in psychology and as a Certified Psychiatric Rehabilitation Practitioner (CPRP), she has pioneered mental health rehabilitation programs in residential and community settings. Ms. Blum is an advocate of mental health clients' rights and has presented stigma, trauma-informed care and mental health recovery topics at numerous local, national and international conferences.
