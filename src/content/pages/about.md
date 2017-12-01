@@ -41,6 +41,7 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
   Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow. Make sure safety is first priority by ensuring and continually expanding safety practices.
 
 
+
 ## Our Board
 
   **George C. Lytal: Chairman of the Board** Mr. Lytal is President and CEO of Crestwood Behavioral Health Inc., California's largest mental health care services provider, and has been with the company for more than 37 years. He practices an inclusive management style that draws upon the strengths and abilities of the company's leadership team. He embraces and fosters a belief in client wellness and recovery and is an advocate against the stigma associated with mental illness. Mr. Lytal's personal philosophy emphasizes high standards and socially responsible business practices.
