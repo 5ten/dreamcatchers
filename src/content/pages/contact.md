@@ -7,6 +7,7 @@ layout: page.html
 footer_image: dreamcatchers/footer-employers1
 header_image: dreamcatchers/dreamcatchers-grocery2
 intro_title: How to Reach Us
+intro_body: 'Dreamcatchers Empowerment Network: Empowering through Employment'
 ---
 
 1125 Missouri Street, Suite 302<br>
