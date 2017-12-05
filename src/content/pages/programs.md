@@ -45,6 +45,8 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
  - ![drm-partners-spark.png](/content/media/drm-partners-spark.png)
  - ![drm-partners-crestwood.png](/content/media/drm-partners-crestwood.png)
  - ![drm-partners-butte.png](/content/media/drm-partners-butte.png)
+ - ![drm-partners-DOR.png](/content/media/drm-partners-DOR.png)
+
 
 - ### Sparkpoint Solano
   
@@ -79,7 +81,17 @@ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoin
   With a variety of positions available in-house with Butte County Behavioral Health, as well as those out in the community, individuals are able to gain skills and knowledge of working with the support of a Job Coach. Candidates submit an application for the open positions in which they are interviewed and once hired; they are able to hold the position for up to 9 months. Throughout the process, Dreamcatchers is providing feedback and support to prepare each individual for employment or assisting them to obtain volunteer experience.
   
   The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment.
+  
+<br>
+## Department of Rehabilitation 
 
+  The California Department of Rehabilitation (DOR) administers the largest vocational rehabilitation program in the country.
+
+They have a three-pronged mission to provide services and advocacy that assist people with disabilities to live independently, become employed and have equality in the communities in which they live and work.
+
+DOR provides consultation, counseling and vocational rehabilitation, and works with community partners to assist the consumers they serve.
+
+<br>
 ## Program Contact Info
 To learn more about our Programs and Services<br>
 Contact: Debra Reynolds, Program Operations Director
