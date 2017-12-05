@@ -42,10 +42,9 @@ Our client services are available to all individuals regardless of disability an
 ## Private Contract Services
 Dreamcatchers provides Employment Services and Paid Work Assessments through private contracts to governmental and private agencies throughout the counties in which we provide services. 
 
- - ![drm-partners-_0005_grocery.png]({{site.baseurl}}/src/content/media/drm-partners-_0005_grocery.png)
- - ![grocery1.png](/content/media/drm-partners-_0005_grocery.png)
- - ![havitat1.png](/content/media/havitat1.png)
- - ![wallgreens.png](/content/media/wallgreens.png)
+ - ![grocery1.png](/content/media/drm-partners-grocery.png)
+ - ![havitat1.png](/content/media/drm-partners-habitat.png)
+ - ![wallgreens.png](/content/media/drm-partners-walgreens.png)
 
 - ### Sparkpoint Solano
   
