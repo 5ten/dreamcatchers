@@ -28,15 +28,15 @@ link_1_body: >-
   Employment support programs for youth & adults with limitations &
   disabilities.
 link_1_text: Our Programs
-link_1_url: /programs
+link_1_url: /our-programs
 link_2_body: >-
   Partnering with businesses and agencies that understand the meaning of
   community.
 link_2_text: For Employers
-link_2_url: /employers
+link_2_url: /for-employers
 link_3_body: Success means more when we find it together.
 link_3_text: Successes & Outcomes
-link_3_url: /outcomes
+link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
 ---
