@@ -43,7 +43,7 @@ You can now shop on [AmazonSmile](https://smile.amazon.com/ch/71-0877008) and he
 ### Thank You
 Thank you to our recent donors: Thank you to our generous donors for their contributions to Dreamcatchers! Their donations make a huge difference in our clients’ lives and allow Dreamcatchers to continue this important work.
 
- - ![grocery1.png](/content/media/drm-partners-cfg.png)
- - ![havitat1.png](/content/media/drm-partners-commercial.png)
- - ![wallgreens.png](/content/media/drm-partners-wells.png)
- - ![wallgreens.png](/content/media/drm-partners-safeway.png)
+ - ![drm-partners-cfg.png](/content/media/drm-partners-cfg.png)
+ - ![drm-partners-commercial.png](/content/media/drm-partners-commercial.png)
+ - ![drm-partners-wells.png](/content/media/drm-partners-wells.png)
+ - ![drm-partners-safeway.png](/content/media/drm-partners-safeway.png)
