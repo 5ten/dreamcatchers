@@ -9,7 +9,8 @@ intro_body: >-
   placement and job coaching to youth and adults with limitations and
   disabilities.
 spotlight_item_title: 'Latest:'
-spotlight_item_link: 'http://dreamcatchers108.wordpress.com/'
+spotlight_item_link: >-
+  https://dreamcatchers.blog/2017/12/05/news-dreamcatchers-empowerment-networks-celebrates-its-3rd-annual-client-success-recognition/
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
