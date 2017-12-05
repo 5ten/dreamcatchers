@@ -42,9 +42,11 @@ Our client services are available to all individuals regardless of disability an
 ## Private Contract Services
 Dreamcatchers provides Employment Services and Paid Work Assessments through private contracts to governmental and private agencies throughout the counties in which we provide services. 
 
- - ![grocery1.png](/content/media/grocery1.png)
- - ![havitat1.png](/content/media/havitat1.png)
- - ![wallgreens.png](/content/media/wallgreens.png)
+ - ![drm-partners-spark.png](/content/media/drm-partners-spark.png)
+ - ![drm-partners-crestwood.png](/content/media/drm-partners-crestwood.png)
+ - ![drm-partners-butte.png](/content/media/drm-partners-butte.png)
+ - ![drm-partners-DOR.png](/content/media/drm-partners-DOR.png)
+
 
 - ### Sparkpoint Solano
   
@@ -59,7 +61,9 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
 
 Dreamcatchers Empowerment Network provides employment related services to the local community members of the Sparkpoint center. Our job developer offers employment workshops, employment counseling, and referrals to resources as well as placement opportunities to those individuals within the community. Clients receive one-to-one services with the Job Development staff in order to complete a resume and direct interview skills training. Clients will also work with the Job Developer to obtain job leads and placement assistance. Participants may be placed into educational, training or employment opportunities.
 
-Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
+ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
+
+[Learn More...](http://wwwsparkpointcenters.org/)
 
 <br>
 ## Private Facility Contracts: 
@@ -70,7 +74,7 @@ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoin
   
   Contracts currently exist between Dreamcatchers and thirteen (13) Crestwood campuses throughout the state of California. These contracts cover resident wages for jobs performed within the campuses, providing vocational training to help individuals become more marketable when transitioning back into the community. Residents work up to 6 hours per month in a variety of different positions within each campus and out in the community.
   
-  Dreamcatchers services promote recovery through employment.
+  Dreamcatchers services promote recovery through employment. [Learn More...](http://www.crestwoodbehavioralhealth.com/)
 
 - ### Butte County Behavioral Health
   
@@ -78,8 +82,19 @@ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoin
   
   With a variety of positions available in-house with Butte County Behavioral Health, as well as those out in the community, individuals are able to gain skills and knowledge of working with the support of a Job Coach. Candidates submit an application for the open positions in which they are interviewed and once hired; they are able to hold the position for up to 9 months. Throughout the process, Dreamcatchers is providing feedback and support to prepare each individual for employment or assisting them to obtain volunteer experience.
   
-  The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment.
+  The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment. [Learn More...](https://www.buttecounty.net/behavioralhealth/Home.aspx)
+  
+<br>
+## Department of Rehabilitation 
 
+  The California Department of Rehabilitation (DOR) administers the largest vocational rehabilitation program in the country.
+
+They have a three-pronged mission to provide services and advocacy that assist people with disabilities to live independently, become employed and have equality in the communities in which they live and work.
+
+DOR provides consultation, counseling and vocational rehabilitation, and works with community partners to assist the consumers they serve. [Learn More...](http://dor.ca.gov/)
+
+<br>
 ## Program Contact Info
-To learn more about our Programs and Services:<br>
-Call 707-558-1775 or [Send us an email](mailto:dommoreci@mac.com)
+To learn more about our Programs and Services<br>
+Contact: Debra Reynolds, Program Operations Director
+<br>707-558-1775 or [Send an email](mailto:dreynolds@dreamcatch.us)

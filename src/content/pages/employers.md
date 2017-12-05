@@ -47,11 +47,13 @@ Once you hire one of our candidates, our team is here to support not only our cl
 
 
 ## Partners
-- ![grocery1.png](/content/media/grocery1.png)
-- ![havitat1.png](/content/media/havitat1.png)
-- ![wallgreens.png](/content/media/wallgreens.png)
+ - ![drm-partners-grocery.png](/content/media/drm-partners-grocery.png)
+ - ![drm-partners-habitat.png](/content/media/drm-partners-habitat.png)
+ - ![drm-partners-walgreens.png](/content/media/drm-partners-walgreens.png)
 
 
 
 ## Join the Network
-Contact us to learn more about partnership opportunities. Give us a call at our main office, 707-558-1775, or email us at [info@dreamcatch.us](mailto:info@dreamcatch.us) and let us go to work for you!
+For more employer information<br>
+Contact: Debra Reynolds, Program Operations Director
+<br>707-558-1775 or [Send an email](mailto:dreynolds@dreamcatch.us)
