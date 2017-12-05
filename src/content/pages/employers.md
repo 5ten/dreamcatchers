@@ -47,9 +47,9 @@ Once you hire one of our candidates, our team is here to support not only our cl
 
 
 ## Partners
- - ![grocery1.png](/content/media/drm-partners-grocery.png)
- - ![havitat1.png](/content/media/drm-partners-habitat.png)
- - ![wallgreens.png](/content/media/drm-partners-walgreens.png)
+ - ![drm-partners-grocery.png](/content/media/drm-partners-grocery.png)
+ - ![drm-partners-habitat.png](/content/media/drm-partners-habitat.png)
+ - ![drm-partners-walgreens.png](/content/media/drm-partners-walgreens.png)
 
 
 
