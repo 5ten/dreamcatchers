@@ -12,7 +12,7 @@ intro_body: >-
   does make a difference. We hope that you will partner with us in this great
   work we are doing to help clients explore their dreams of becoming employed
   and self-sufficient. Thank you.
-footer_image: dreamcatchers/footer-donate1
+footer_image: dreamcatchers/footer-donate2
 header_image: dreamcatchers/dreamcatchers-shop
 ---
 ## Ways to Donate
@@ -43,6 +43,6 @@ You can now shop on [AmazonSmile](https://smile.amazon.com/ch/71-0877008) and he
 ### Thank You
 Thank you to our recent donors: Thank you to our generous donors for their contributions to Dreamcatchers! Their donations make a huge difference in our clients’ lives and allow Dreamcatchers to continue this important work.
 
-- ![grocery1.png](/content/media/grocery1.png)
-- ![havitat1.png](/content/media/havitat1.png)
-- ![wallgreens.png](/content/media/wallgreens.png)
+ - ![grocery1.png](/content/media/drm-partners-grocery.png)
+ - ![havitat1.png](/content/media/drm-partners-habitat.png)
+ - ![wallgreens.png](/content/media/drm-partners-walgreens.png)
