@@ -50,6 +50,9 @@ Once you hire one of our candidates, our team is here to support not only our cl
 - ![grocery1.png](/content/media/grocery1.png)
 - ![havitat1.png](/content/media/havitat1.png)
 - ![wallgreens.png](/content/media/wallgreens.png)
+- ![grocery1.png](/content/media/grocery1.png)
+- ![havitat1.png](/content/media/havitat1.png)
+- ![wallgreens.png](/content/media/wallgreens.png)
 
 
 
