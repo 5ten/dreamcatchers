@@ -84,6 +84,7 @@ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoin
   
 <br>
 ## Department of Rehabilitation 
+![drm-partners-DOR.png]({{site.baseurl}}/src/content/media/drm-partners-DOR.png)
 
   The California Department of Rehabilitation (DOR) administers the largest vocational rehabilitation program in the country.
 
