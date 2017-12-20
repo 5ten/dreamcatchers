@@ -43,7 +43,7 @@ Our client services are available to all individuals regardless of disability an
 **Retention** is provided by our employment specialists after a client's job placement, to maintain employer contact to ensure client progress, employer satisfaction and job success. This includes telephone calls, personal visits or other means of contact to support the client's continued employment.
 
 <br>
-## Private Contract Services
+## Private Contracts
 Dreamcatchers provides Employment Services and Paid Work Assessments through private contracts to governmental and private agencies throughout the counties in which we provide services. 
 
  - ![drm-partners-spark.png](/content/media/drm-partners-spark.png)
@@ -52,6 +52,14 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
  - ![drm-partners-DOR.png](/content/media/drm-partners-DOR.png)
 
 
+- ### Butte County Behavioral Health
+  
+  (2015- Current) Dreamcatchers began providing Supported Employment - Paid Work Experience to	individuals receiving services through Butte County Behavioral Health in July 2015.
+  
+  With a variety of positions available in-house with Butte County Behavioral Health, as well as those out in the community, individuals are able to gain skills and knowledge of working with the support of a Job Coach. Candidates submit an application for the open positions in which they are interviewed and once hired; they are able to hold the position for up to 9 months. Throughout the process, Dreamcatchers is providing feedback and support to prepare each individual for employment or assisting them to obtain volunteer experience.
+  
+  The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment. [Learn More...](https://www.buttecounty.net/behavioralhealth/Home.aspx)
+  
 - ### Sparkpoint Solano
   
   Sparkpoint was developed by United Way, brings together free community resources to help families grow and prosper. The center is a one-stop location for a full-range of services, including financial coaching, as well as programs that help families move up the career ladder, build assets and manage their credit. We work together to help achieve goals by offering such services as:
@@ -68,10 +76,7 @@ Dreamcatchers Empowerment Network provides employment related services to the lo
  Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
 
 [Learn More...](http://www.sparkpointcenters.org/)
-
-<br>
-## Private Facility Contracts: 
-
+  
 - ### Crestwood Behavioral Health, Inc.
 
   Dreamcatchers Empowerment Network was created in 2000 by Crestwood Behavioral Health, Inc. (California’s largest provider of mental health services) to provide services to people with mental health issues who were reintegrating into the community with the personal goal of independence.
@@ -80,14 +85,6 @@ Dreamcatchers Empowerment Network provides employment related services to the lo
   
   Dreamcatchers services promote recovery through employment. [Learn More...](http://www.crestwoodbehavioralhealth.com/)
 
-- ### Butte County Behavioral Health
-  
-  (2015- Current) Dreamcatchers began providing Supported Employment - Paid Work Experience to	individuals receiving services through Butte County Behavioral Health in July 2015.
-  
-  With a variety of positions available in-house with Butte County Behavioral Health, as well as those out in the community, individuals are able to gain skills and knowledge of working with the support of a Job Coach. Candidates submit an application for the open positions in which they are interviewed and once hired; they are able to hold the position for up to 9 months. Throughout the process, Dreamcatchers is providing feedback and support to prepare each individual for employment or assisting them to obtain volunteer experience.
-  
-  The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment. [Learn More...](https://www.buttecounty.net/behavioralhealth/Home.aspx)
-  
 
 <br>
 ## Program Contact Info
