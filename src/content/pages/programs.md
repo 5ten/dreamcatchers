@@ -22,6 +22,10 @@ Our services include helping individuals obtain Social Security cards, teaching 
 ## Programs & Services
 The goal of Dreamcatchers is to support and nurture the people seeking employment services through our on-going vocational services.  The philosophy at Dreamcatchers is a client-centered approach to providing services with respect and dignity. We believe that when an individual achieves meaningful employment, the community benefits from the exposure and contributions of individuals, who are frequently marginalized and dismissed as individuals. 
 
+**Department of Rehabilitation**
+The California Department of Rehabilitation (DOR) administers the largest vocational rehabilitation program in the country.They have a three-pronged mission to provide services and advocacy that assist people with disabilities to live independently, become employed and have equality in the communities in which they live and work.DOR provides consultation, counseling and vocational rehabilitation, and works with community partners to assist the consumers they serve. [Learn More...](http://dor.ca.gov/)
+
+<br>
 Our client services are available to all individuals regardless of disability and they include:
 
 **Vocational Assessment** which assesses information about a client’s vocational interests, abilities and values. This information identifies basic work skills, work habits, work tolerances, work behaviors, and interpersonal skills of clients. Often times a transferable skill analysis is completed to help identify a vocational goal.
@@ -84,14 +88,6 @@ Dreamcatchers Empowerment Network provides employment related services to the lo
   
   The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment. [Learn More...](https://www.buttecounty.net/behavioralhealth/Home.aspx)
   
-<br>
-## Department of Rehabilitation 
-
-  The California Department of Rehabilitation (DOR) administers the largest vocational rehabilitation program in the country.
-
-They have a three-pronged mission to provide services and advocacy that assist people with disabilities to live independently, become employed and have equality in the communities in which they live and work.
-
-DOR provides consultation, counseling and vocational rehabilitation, and works with community partners to assist the consumers they serve. [Learn More...](http://dor.ca.gov/)
 
 <br>
 ## Program Contact Info
