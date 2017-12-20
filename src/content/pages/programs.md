@@ -25,8 +25,7 @@ The goal of Dreamcatchers is to support and nurture the people seeking employmen
 **Department of Rehabilitation**<br>
 The California Department of Rehabilitation (DOR) administers the largest vocational rehabilitation program in the country.They have a three-pronged mission to provide services and advocacy that assist people with disabilities to live independently, become employed and have equality in the communities in which they live and work.DOR provides consultation, counseling and vocational rehabilitation, and works with community partners to assist the consumers they serve. [Learn More...](http://dor.ca.gov/)
 
-<br>
-Our client services are available to all individuals regardless of disability and they include:
+**Our client services are available to all individuals regardless of disability and they include:**
 
 **Vocational Assessment** which assesses information about a client’s vocational interests, abilities and values. This information identifies basic work skills, work habits, work tolerances, work behaviors, and interpersonal skills of clients. Often times a transferable skill analysis is completed to help identify a vocational goal.
 
@@ -51,7 +50,6 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
  - ![drm-partners-butte.png](/content/media/drm-partners-butte.png)
  - ![drm-partners-DOR.png](/content/media/drm-partners-DOR.png)
 
-<br>
 - ### Butte County Behavioral Health
   
   (2015- Current) Dreamcatchers began providing Supported Employment - Paid Work Experience to	individuals receiving services through Butte County Behavioral Health in July 2015.
@@ -60,7 +58,6 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
   
   The goal of the program is to build job skills and better prepare individuals for permanent, community-based employment. [Learn More...](https://www.buttecounty.net/behavioralhealth/Home.aspx)
 
-<br>
 - ### Sparkpoint Solano
   
   Sparkpoint was developed by United Way, brings together free community resources to help families grow and prosper. The center is a one-stop location for a full-range of services, including financial coaching, as well as programs that help families move up the career ladder, build assets and manage their credit. We work together to help achieve goals by offering such services as:
@@ -78,7 +75,6 @@ Dreamcatchers Empowerment Network provides employment related services to the lo
 
 [Learn More...](http://www.sparkpointcenters.org/)
 
-<br>
 - ### Crestwood Behavioral Health, Inc.
 
   Dreamcatchers Empowerment Network was created in 2000 by Crestwood Behavioral Health, Inc. (California’s largest provider of mental health services) to provide services to people with mental health issues who were reintegrating into the community with the personal goal of independence.
