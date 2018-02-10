@@ -5,4 +5,36 @@
   .spotlight {
   @extend .feature;
   }
+  .carf {
+  	@include media('small-screen') {
+	  	padding-left: $side-padding;
+	  	padding-top:2rem;
+	  	padding-bottom:2rem;
+	  	margin-left:0;
+		@include clearfix;
+  	}
+
+  	.image {
+  		padding-top:1rem;
+  		text-align: center;
+  		img {
+			max-width: 150px;
+  		}
+  		@include media('small-screen') {
+			float: left;  	
+			width:20%;		
+  		}
+  	}
+  	.text {
+  		text-align: center;
+  		@include media('small-screen') {
+  			text-align: left;
+			float: left;  			
+			width:80%;	
+			h3, p {
+				padding-left:2.5rem
+			}	
+  		}
+  	}
+  }
 }  
