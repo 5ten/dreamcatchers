@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home.html
-spotlight_item_body: Dreamcatchers Empowerment Network’s Celebrates its 3rd Annual Client Success
+spotlight_item_body: Celebrateing our 4th Annual Client Success Recognition
 intro_body: >-
   Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
@@ -10,7 +10,7 @@ intro_body: >-
   disabilities.
 spotlight_item_title: 'Latest:'
 spotlight_item_link: >-
-  https://dreamcatchers.blog/2017/12/05/news-dreamcatchers-empowerment-networks-celebrates-its-3rd-annual-client-success-recognition/
+  http://dreamcatchers.blog/2018/03/26/celebrating-our-4th-annual-client-success-recognition/
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
