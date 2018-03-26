@@ -11,8 +11,6 @@ intro_body: >-
 intro_title: Our Vision
 header_image: dreamcatchers/dreamcatchers-cafe2
 footer_image: dreamcatchers/footer-about1
-intro_link_text: Read our 5 Year Strategic Plan
-intro_link: '#'
 ---
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
 - “Working with Dreamcatchers at Walgreen’s has been a great learning experience concerning the benefits of working with people with disabilities.” _Tyler, Store Manager, Walgreen’s_
@@ -41,10 +39,6 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 
 - ### Safety
   Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow. Make sure safety is first priority by ensuring and continually expanding safety practices.
-
-## Something here
-  
-- ### Test
 
 
 ## Our Board
