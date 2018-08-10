@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home.html
-spotlight_item_body: Big Day of Giving 2018 is May 3rd!
+spotlight_item_body: Creamcatchers awarded our 6th Three-Year CARF Accreditation!
 intro_body: >-
   Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
@@ -9,7 +9,8 @@ intro_body: >-
   placement and job coaching to youth and adults with limitations and
   disabilities.
 spotlight_item_title: 'Latest:'
-spotlight_item_link: 'https://dreamcatchers.blog/2018/03/29/bog-day-of-giving-2018/'
+spotlight_item_link: >-
+  http://dreamcatchers.blog/2018/08/10/dreamcatchers-awarded-its-6th-three-year-carf-accreditation/
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
