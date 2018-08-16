@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home.html
-spotlight_item_body: Creamcatchers awarded our 6th Three-Year CARF Accreditation!
+spotlight_item_body: Dreamcatchers awarded our 6th Three-Year CARF Accreditation!
 intro_body: >-
   Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
