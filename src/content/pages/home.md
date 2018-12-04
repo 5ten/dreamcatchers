@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home.html
-spotlight_item_body: Dreamcatchers awarded our 6th Three-Year CARF Accreditation!
+spotlight_item_body: 5th Annual Client Success Recogniton
 intro_body: >-
   Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
@@ -10,7 +10,7 @@ intro_body: >-
   disabilities.
 spotlight_item_title: 'Latest:'
 spotlight_item_link: >-
-  http://dreamcatchers.blog/2018/08/10/dreamcatchers-awarded-its-6th-three-year-carf-accreditation/
+  https://dreamcatchers.blog/2018/12/04/dreamcatchers-empowerment-networks-celebrates-its-5th-annual-client-success-recognition/
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
