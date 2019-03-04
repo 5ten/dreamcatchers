@@ -28,6 +28,8 @@ prose:
     - field: {element: text, label: blockstat_1_label}
       name: blockstat_1_label
     - field: {element: text, label: blockstat_2_value}
+      name: blockstat_2_value
+    - field: {element: text, label: blockstat_2_label}
       name: blockstat_2_label
     - field: {element: text, label: centerstat_value}
       name: centerstat_value
