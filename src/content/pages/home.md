@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home.html
-spotlight_item_body: 5th Annual Client Success Recogniton
+spotlight_item_body: 'Now hiring in Chico, Ca.'
 intro_body: >-
   Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
@@ -10,7 +10,7 @@ intro_body: >-
   disabilities.
 spotlight_item_title: 'Latest:'
 spotlight_item_link: >-
-  https://dreamcatchers.blog/2018/12/04/dreamcatchers-empowerment-networks-celebrates-its-5th-annual-client-success-recognition/
+  https://www.indeed.com/jobs?q=Dreamcatchers%20Empowerment%20Network&ts=1551735087746&rq=1&fromage=last&advn=7128208469094005&vjk=0ebb599a8beaeeee
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
