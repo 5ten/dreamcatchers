@@ -29,7 +29,8 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 [Click to View PDF](https://dreamcatchers108.files.wordpress.com/2018/03/dreamctchers-5year-plan.pdf)
 
 **JOIN THE DREAMCATCHERS TEAM**
-  Dreamcatchers Empowerment Network is a non-profit agency seeking a Full Time EMPLOYMENT SPECIALIST in Chico, Ca. [Click here to view this opportunity](https://www.indeed.com/jobs?q=Dreamcatchers%20Empowerment%20Network&ts=1551735087746&rq=1&fromage=last&advn=7128208469094005&vjk=0ebb599a8beaeeee)
+
+Dreamcatchers Empowerment Network is a non-profit agency seeking a Full Time EMPLOYMENT SPECIALIST in Chico, Ca. [**Click here to view this opportunity**](https://www.indeed.com/jobs?q=Dreamcatchers%20Empowerment%20Network&ts=1551735087746&rq=1&fromage=last&advn=7128208469094005&vjk=0ebb599a8beaeeee)
 
 ## Our Values
   
