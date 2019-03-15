@@ -15,6 +15,9 @@ footer_image: dreamcatchers/footer-about1
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
 - “Working with Dreamcatchers at Walgreen’s has been a great learning experience concerning the benefits of working with people with disabilities.” _Tyler, Store Manager, Walgreen’s_
 
+- ### Join the Team!
+  Dreamcatchers Empowerment Network is a non-profit agency seeking a Full Time EMPLOYMENT SPECIALIST in Chico, Ca. [Click here to view this opportunity](https://www.indeed.com/jobs?q=Dreamcatchers%20Empowerment%20Network&ts=1551735087746&rq=1&fromage=last&advn=7128208469094005&vjk=0ebb599a8beaeeee)
+  
 ## Our Mission
 Our mission at Dreamcatchers Empowerment Network is to provide assessments, job preparation, job placement and job coaching to youth and adults with limitations and disabilities. We are dedicated to serving individuals in a collaborative manner, with a network of other agencies. Dreamcatchers services are directed at assisting individuals to prepare for, choose, obtain, and retain employment. Services are tailored to an individual's strengths, resources, priorities, needs, abilities, interests and informed choices.
 
