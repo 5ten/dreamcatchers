@@ -39,4 +39,8 @@ link_3_text: Successes & Outcomes
 link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
+spotlight_item_title2: 'Latest:2'
+spotlight_item_body2: 'Now hiring in Chico, Ca.2'
+spotlight_item_link2: >-
+  https://www.indeed.com/jobs?q=Dreamcatchers%20Empowerment%20Network&ts=1551735087746&rq=1&fromage=last&advn=7128208469094005&vjk=0ebb599a8beaeeee2222222
 ---
