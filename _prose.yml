@@ -133,6 +133,12 @@ prose:
       name: spotlight_item_body
     - field: {element: text, label: Spotlight Item Link}
       name: spotlight_item_link
+    - field: {element: text, label: Spotlight Item Title2}
+      name: spotlight_item_title2
+    - field: {element: textarea, label: Spotlight Item Body2}
+      name: spotlight_item_body2
+    - field: {element: text, label: Spotlight Item Link2}
+      name: spotlight_item_link2      
     - field: {api_key: 764947189999699, cloud_name: fiveten, element: cloudinary,
         help: Select an image to upload, label: Footer Image, upload_preset: dreamcatchers}
       name: footer_image
