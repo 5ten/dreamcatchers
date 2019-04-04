@@ -18,6 +18,8 @@ header_image: dreamcatchers/dreamcatchers-shop
 ## Ways to Donate
 All donations will be confirmed with an acknowledgment and receipt for tax purposes. For questions, please contact Dreamcatchers at [info@dreamcatch.us](mailto:info@dreamcatch.us) or 707-558-1775.
 
+<a href='https://dreamcatch.networkforgood.com/projects/68307-dreamcatchers' target='_blank' class='mt-2'>Donate Now</a>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="VQKQZUWZD69JW">
