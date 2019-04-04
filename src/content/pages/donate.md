@@ -20,13 +20,6 @@ All donations will be confirmed with an acknowledgment and receipt for tax purpo
 
 <a href='https://dreamcatch.networkforgood.com/projects/68307-dreamcatchers' target='_blank' class='mt-2'><button>Donate Online</button></a>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="VQKQZUWZD69JW">
-    <button>Donate Online</button>
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" style="display:none" width="1" height="1">
-  </form>
-
 <br>
 - ### Donate by check / mail
   Please make your check payable to Dreamcatchers Empowerment Network and send to: 
