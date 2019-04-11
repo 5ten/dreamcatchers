@@ -8,7 +8,7 @@ intro_body: >-
   complete support program that includes assessments, job preparation, job
   placement and job coaching to youth and adults with limitations and
   disabilities.
-spotlight_item_title: Dreamcatcher Jobs
+spotlight_item_title: JOBS
 spotlight_item_link: 'https://dreamcatchers.blog/jobs/'
 published: true
 slider_title: We empower people to live and succeed in their community.
@@ -38,4 +38,7 @@ link_3_text: Successes & Outcomes
 link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
+spotlight_item_title2: LATEST NEWS
+spotlight_item_body2: The Big Day of Giving is Coming May 2!
+spotlight_item_link2: 'https://dreamcatchers.blog/2019/04/11/big-day-of-giving-2019/'
 ---
