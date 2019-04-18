@@ -10,12 +10,4 @@
 		@extend .grid;
 	}
 
-	.iframe {
-		width: 100%;
-		padding: 0 2rem;
-		@include media('small-screen') {
-			padding: 0 5rem;
-		}
-
-	}
 }

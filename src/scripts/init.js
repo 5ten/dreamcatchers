@@ -101,6 +101,15 @@
             $locationName.append('<span>' + $locationStats1Value + '</span>');
         });
 
+        $('#close-modal').on('click', function(){
+            $('.modal').hide();
+            return false;
+        });
+
+        $('#open-modal').on('click', function(){
+            $('.modal').show();
+            return false;            
+        })
 	/* end initialize */
 	});
 })(jQuery);

@@ -35,3 +35,54 @@ img {
 .button {
   @include button;
 }
+
+.iframe {
+  width: 100%;
+  padding: 0 2rem;
+  @include media('small-screen') {
+    padding: 0 5rem;
+  }
+}
+.modal {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(255, 255, 255, .95);
+  color: #000;
+}
+.modal .content-wrapper {
+  max-width: 320px;
+  margin: 4rem auto;
+  position: relative;
+}
+@media (min-width:769px) {
+  .modal .content-wrapper {
+    max-width: 480px;
+  }
+}
+
+.newsletter {
+  background: #dedede;
+  padding: 2rem;
+  text-align: center;
+}
+.newsletter a {
+  margin: 0
+}
+
+.modal .content-wrapper .close {
+  position: absolute;
+  top: 0;
+  right: 2rem;
+  font-weight: bold;
+}
+.modal .iframe,
+.modal h4 {
+  padding: 0 2rem;
+}
+.modal .iframe iframe {
+  height: 450px;
+}

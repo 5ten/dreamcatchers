@@ -26,3 +26,7 @@ info@dreamcatch.us<br>
 1125 Missouri Street, Suite 302<br>
 Fairfield, CA 94533<br>
 707-558-1775 <br>
+
+<div class="newsletter">
+    <a href="#" id="open-modal" class="button">Sign up for our newsletter</a>
+</div>
