@@ -86,3 +86,20 @@ img {
 .modal .iframe iframe {
   height: 450px;
 }
+
+.social {
+  float: left;
+  clear: both;
+  margin-top: 1rem;
+}
+@media (min-width:769px) {
+  .social {
+    float: right;
+    clear: none;
+    margin-top: 0;
+  }
+}
+.social img {
+  width: auto;
+  height: 1.5rem;
+}
