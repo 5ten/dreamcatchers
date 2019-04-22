@@ -31,19 +31,27 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 ## Our Values
   
 - ### Choice
-  Provide clients with the information to make informed choices. Ownership of their destiny.
-  
+  - Support clients by sharing information to make informed choices. 
+  - Our clients have ownership of their destiny
+
 - ### Empowerment
-  Creating a focus on self-sufficiency rather than dependency. We show our clients their strengths and build on them by partnering with them to open doors. Providing encouragement to believe that they CAN!
+	- Creating a focus on self-sufficiency rather than dependency
+	- We show our clients their strengths and build on them by partnering to open doors, overcome obstacles and support them on their journey to employment.
+	- Providing encouragement to believe that they CAN!
+
   
 - ### Trust
-  Building bridges of hope and honesty with clients and community. By being reliable, respecting confidentiality and treating each client with integrity.
+	- Building bridges of hope and honesty with clients and community
+	- By being reliable, respecting confidentiality and treating each client with integrity 
+	- Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow
 
 - ### Collaboration
-  Incorporating diverse agencies and including our clients in the decision-making process. Teamwork makes the Dream Work.
+	- Incorporating diverse agencies, employers and our clients in the decision making process for employment
+	- Team Work makes the Dream Work
 
 - ### Safety
-  Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow. Make sure safety is first priority by ensuring and continually expanding safety practices.
+	- Dedication of staff to our mission to provide services to our clients by walking with them throughout the employment process.
+	- To our roles, to each other and to the greater good in helping others succeed.
 
 
 ## Our Board
