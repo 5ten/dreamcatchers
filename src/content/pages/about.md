@@ -30,26 +30,26 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 
 ## Our Values
   
-- ### Choice
- - Support clients by sharing information to make informed choices. 
- - Our clients have ownership of their destiny
+### Choice
+- Support clients by sharing information to make informed choices. 
+- Our clients have ownership of their destiny
 
-- ### Empowerment
+### Empowerment
 - Creating a focus on self-sufficiency rather than dependency
 - We show our clients their strengths and build on them by partnering to open doors, overcome obstacles and support them on their journey to employment.
 - Providing encouragement to believe that they CAN!
 
   
-- ### Trust
+### Trust
 - Building bridges of hope and honesty with clients and community
 - By being reliable, respecting confidentiality and treating each client with integrity 
 - Protecting the value of the person by providing a safe and nurturing environment for our clients to develop and grow
 
-- ### Collaboration
+### Collaboration
 - Incorporating diverse agencies, employers and our clients in the decision making process for employment
 - Team Work makes the Dream Work
 
-- ### Safety
+### Safety
 - Dedication of staff to our mission to provide services to our clients by walking with them throughout the employment process.
 - To our roles, to each other and to the greater good in helping others succeed.
 
