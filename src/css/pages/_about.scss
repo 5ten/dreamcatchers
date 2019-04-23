@@ -3,11 +3,8 @@
   	main ul:nth-of-type(1) {
 		@extend .quotes;
 	}
-  	main ul:nth-of-type(2) {
-		@extend .listing;
-	}
-  	main ul:nth-of-type(3) {
-		@extend .listing;
+	main ul {
+		margin: 0 4rem;
 	}
 
 }
