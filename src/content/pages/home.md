@@ -39,6 +39,7 @@ link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
 spotlight_item_title2: LATEST NEWS
-spotlight_item_body2: The Big Day of Giving is Coming May 2!
-spotlight_item_link2: 'https://dreamcatchers.blog/2019/04/11/big-day-of-giving-2019/'
+spotlight_item_body2: Big Day of Giving Recap!
+spotlight_item_link2: >-
+  https://dreamcatchers.blog/2019/06/06/dreamcatchers-2019-big-day-of-giving-recap/
 ---
