@@ -16,7 +16,7 @@ header_image: dreamcatchers/dreamcatchers-warehouse
 footer_image: dreamcatchers/footer-employers1
 ---
 
-- "We have had the opportunity to work with Dreamcatchers, and see first-hand the impact that they have on our community. Not only have they helped us to support our business during times of need, we’ve also been connected with their employees who have come to work for us, applied for other positions within the Core-Mark, and have helped them build their careers. We are so proud to collaborate with such an inspiring organization, and look forward to building the relationship in years to come!"
+- "We have had the opportunity to work with Dreamcatchers, and see first-hand the impact that they have on our community. Not only have they helped us to support our business during times of need, we’ve also been connected with their employees who have come to work for us, applied for other positions within the Core-Mark, and have helped them build their careers. We are so proud to collaborate with such an inspiring organization, and look forward to building the relationship in years to come!" _Coremark_
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
 - “Working with Dreamcatchers at Walgreen’s has been a great learning experience concerning the benefits of working with people with disabilities.” _Tyler, Store Manager, Walgreens_
 
