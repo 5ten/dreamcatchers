@@ -49,9 +49,20 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 - Incorporating diverse agencies, employers and our clients in the decision making process for employment
 - Team Work makes the Dream Work
 
-### Safety
+### Commitment
 - Dedication of staff to our mission to provide services to our clients by walking with them throughout the employment process.
 - To our roles, to each other and to the greater good in helping others succeed.
+
+### Leadership Principles
+- Promote teamwork, because the best results are obtained when the team holds responsibility.
+- Make decisions in a participatory or consultative way and involve people closest to the issue.
+- Set examples and provide opportunities for ongoing, open communication and feedback.
+- Provide ongoing training, support, resources and information to promote an environment where we can maximize our potential.
+- Create an environment where creativity, humor, transparency and risk-taking are encouraged.
+- Promote innovative solutions, recognizing that both successes and failures provide opportunities for learning and growing.
+- Promote business decision-making linked to ethical values, compliance with legal requirements and respect for people, communities and the environment.
+
+
 
 
 ## Our Board
