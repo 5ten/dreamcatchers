@@ -1,15 +1,12 @@
 ---
 title: Home
 layout: home.html
-spotlight_item_body: The next step in your career could be with our team!
 intro_body: >-
   Dreamcatchers Empowerment Network is a not-for-profit 501(c)(3) that
   collaborates with local businesses and government agencies to provide a
   complete support program that includes assessments, job preparation, job
   placement and job coaching to youth and adults with limitations and
   disabilities.
-spotlight_item_title: JOBS
-spotlight_item_link: 'https://dreamcatchers.blog/jobs/'
 published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
@@ -38,8 +35,8 @@ link_3_text: Successes & Outcomes
 link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
-spotlight_item_title2: LATEST NEWS
-spotlight_item_body2: Big Day of Giving Recap!
-spotlight_item_link2: >-
+spotlight_item_title: LATEST NEWS
+spotlight_item_body: Big Day of Giving Recap!
+spotlight_item_link: >-
   https://dreamcatchers.blog/2019/06/06/dreamcatchers-2019-big-day-of-giving-recap/
 ---
