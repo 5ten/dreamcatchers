@@ -36,7 +36,7 @@ link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
 spotlight_item_title: LATEST NEWS
-spotlight_item_body: Big Day of Giving Recap!
+spotlight_item_body: 6th Annual Client Success Recognition!
 spotlight_item_link: >-
-  https://dreamcatchers.blog/2019/06/06/dreamcatchers-2019-big-day-of-giving-recap/
+  https://dreamcatchers.blog/2019/11/05/dreamcatchers-empowerment-networks-celebrates-its-6th-annual-client-success-recognition/
 ---
