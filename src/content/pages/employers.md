@@ -52,9 +52,3 @@ Once you hire one of our candidates, our team is here to support not only our cl
  - ![drm-partners-habitat.png](/content/media/drm-partners-habitat.png)
  - ![drm-partners-walgreens.png](/content/media/drm-partners-walgreens.png)
 
-
-
-## Join the Network
-For more employer information<br>
-Contact: Debra Reynolds, Program Operations Director
-<br>707-558-1775 or [Send an email](mailto:dreynolds@dreamcatch.us)
