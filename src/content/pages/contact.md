@@ -13,9 +13,6 @@ intro_body: 'Dreamcatchers Empowerment Network: Empowering through Employment'
 **For Donor Information please contact:**<br>
 Regina Kaiser, Executive Director, [rkaiser@dreamcatch.us](mailto:rkaiser@dreamcatch.us)
 
-**For Program and Employer Information please contact:**<br>
-Debra Reynolds, Program Operations Director, [dreynolds@dreamcatch.us](mailto:dreynolds@dreamcatch.us)
-
 **Job Postings:**<br>
 [View Current Openings](https://dreamcatchers.blog/jobs/)
 
