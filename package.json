@@ -4,7 +4,7 @@
     "build": "gulp build"
   },
   "dependencies": {
-    "handlebars": "~4.0.4",
+    "handlebars": "~4.5.3",
     "metalsmith": "^1.7.0",
     "metalsmith-collections": "~0.7.0",
     "metalsmith-include": "0.0.2",
