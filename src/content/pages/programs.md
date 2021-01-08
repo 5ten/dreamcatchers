@@ -69,6 +69,12 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
   - Keep your home
   - Locate child care
   
+  Dreamcatchers Empowerment Network provides employment related services to the local community members of the Sparkpoint center. Our job developer offers employment workshops, employment counseling, and referrals to resources as well as placement opportunities to those individuals within the community. Clients receive one-to-one services with the Job Development staff in order to complete a resume and direct interview skills training. Clients will also work with the Job Developer to obtain job leads and placement assistance. Participants may be placed into educational, training or employment opportunities.
+
+ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
+
+[Learn More...](https://www.childnet.org/sparkpoint/)
+  
 - ### County of Fresno Department of Behavioral Health
   
   The Dreamcatchers Vocational Educational Services program is for those individuals with mental health disabilities who are part of the Fresno County mental health system.  Dreamcatchers offers these individuals an array of services that includes:
@@ -79,12 +85,6 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
   - Assessment,  including self-assessment, mental health and health history, and educational and vocational background completed by licensed clinician.
   - Benefit planning assistance.
   - Healthy relationships, harm reduction and life skills training.
-
-Dreamcatchers Empowerment Network provides employment related services to the local community members of the Sparkpoint center. Our job developer offers employment workshops, employment counseling, and referrals to resources as well as placement opportunities to those individuals within the community. Clients receive one-to-one services with the Job Development staff in order to complete a resume and direct interview skills training. Clients will also work with the Job Developer to obtain job leads and placement assistance. Participants may be placed into educational, training or employment opportunities.
-
- Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
-
-[Learn More...](https://www.childnet.org/sparkpoint/)
 
 - ### Crestwood Behavioral Health, Inc.
 
