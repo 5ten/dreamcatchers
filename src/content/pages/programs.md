@@ -77,13 +77,22 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
 - ### County of Fresno Department of Behavioral Health
   
   The Dreamcatchers Vocational Educational Services program is for those individuals with mental health disabilities who are part of the Fresno County mental health system.  Dreamcatchers offers these individuals an array of services that includes:
+  - Find a job
+  - Build your credit
+  - Manage your credit
+  - Go back to school
+  - Get free tax help
+  - Keep your home
+  - Locate child care
   - Individualized CARF-accredited educational, employment, empowerment plan addressing the client’s interests, goals, skills abilities and needs.
-  - Job preparation, job seeking assistance, computer lab, placement services, and coaching services.
-  - Connection to adult education and community college and other educational services.
-  - Peer Support groups, peer training, and supportive mentoring.
-  - Assessment,  including self-assessment, mental health and health history, and educational and vocational background completed by licensed clinician.
-  - Benefit planning assistance.
-  - Healthy relationships, harm reduction and life skills training.
+-   - Job preparation, job seeking assistance, computer lab, placement services, and coaching services.
+-   - Connection to adult education and community college and other educational services.
+-   - Peer Support groups, peer training, and supportive mentoring.
+-   - Assessment,  including self-assessment, mental health and health history, and educational and vocational background completed by licensed clinician.
+-   - Benefit planning assistance.
+-   - Healthy relationships, harm reduction and life skills training.
+
+
 
 - ### Crestwood Behavioral Health, Inc.
 
