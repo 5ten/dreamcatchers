@@ -53,7 +53,7 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 - Dedication of staff to our mission to provide services to our clients by walking with them throughout the employment process.
 - To our roles, to each other and to the greater good in helping others succeed.
 
-### Leadership Principles
+## Leadership Principles
 - Promote teamwork, because the best results are obtained when the team holds responsibility.
 - Make decisions in a participatory or consultative way and involve people closest to the issue.
 - Set examples and provide opportunities for ongoing, open communication and feedback.
