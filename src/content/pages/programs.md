@@ -86,7 +86,6 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
   - Healthy relationships, harm reduction and life skills training.
 
 
-
 - ### Crestwood Behavioral Health, Inc.
 
   Dreamcatchers Empowerment Network was created in 2000 by Crestwood Behavioral Health, Inc. (California’s largest provider of mental health services) to provide services to people with mental health issues who were reintegrating into the community with the personal goal of independence.
