@@ -85,12 +85,12 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
   - Keep your home
   - Locate child care
   - Individualized CARF-accredited educational, employment, empowerment plan addressing the client’s interests, goals, skills abilities and needs.
--   - Job preparation, job seeking assistance, computer lab, placement services, and coaching services.
--   - Connection to adult education and community college and other educational services.
--   - Peer Support groups, peer training, and supportive mentoring.
--   - Assessment,  including self-assessment, mental health and health history, and educational and vocational background completed by licensed clinician.
--   - Benefit planning assistance.
--   - Healthy relationships, harm reduction and life skills training.
+  - Job preparation, job seeking assistance, computer lab, placement services, and coaching services.
+  - Connection to adult education and community college and other educational services.
+  - Peer Support groups, peer training, and supportive mentoring.
+  - Assessment,  including self-assessment, mental health and health history, and educational and vocational background completed by licensed clinician.
+  - Benefit planning assistance.
+  - Healthy relationships, harm reduction and life skills training.
 
 
 
