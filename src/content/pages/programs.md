@@ -71,14 +71,13 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
   
   Dreamcatchers Empowerment Network provides employment related services to the local community members of the Sparkpoint center. Our job developer offers employment workshops, employment counseling, and referrals to resources as well as placement opportunities to those individuals within the community. Clients receive one-to-one services with the Job Development staff in order to complete a resume and direct interview skills training. Clients will also work with the Job Developer to obtain job leads and placement assistance. Participants may be placed into educational, training or employment opportunities.
 
- Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.
+ Regina Kaiser, Executive Director, sits on the Executive Committee for Sparkpoint Solano.[Learn More...](https://www.childnet.org/sparkpoint/)
+ 
 
-[Learn More...](https://www.childnet.org/sparkpoint/)
-  
 - ### County of Fresno Department of Behavioral Health
   
   The Dreamcatchers Vocational Educational Services program is for those individuals with mental health disabilities who are part of the Fresno County mental health system.  Dreamcatchers offers these individuals an array of services that includes:
-  - ndividualized CARF-accredited educational, employment, empowerment plan addressing the client’s interests, goals, skills abilities and needs.
+  - Individualized CARF-accredited educational, employment, empowerment plan addressing the client’s interests, goals, skills abilities and needs.
   - Job preparation, job seeking assistance, computer lab, placement services, and coaching services.
   - Connection to adult education and community college and other educational services.
   - Peer Support groups, peer training, and supportive mentoring.
