@@ -49,7 +49,7 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
  - ![drm-partners-crestwood.png](/content/media/drm-partners-crestwood.png)
  - ![drm-partners-butte.png](/content/media/drm-partners-butte.png)
  - ![drm-partners-DOR.png](/content/media/drm-partners-DOR.png)
- - ![drm-partners-fresno.png](/content/media/drm-partners-fresno.png)
+ - ![drm-partners-fresno.png](/content/media/drm-partners-fresno.jpeg)
 
 - ### Butte County Behavioral Health
   
