@@ -24,6 +24,15 @@ info@dreamcatch.us<br>
 Fairfield, CA 94533<br>
 707-558-1775 <br>
 
+**Fresno Office:**<br>
+855 N Abby St.<br>
+Fresno, CA 93701<br>
+Office-(559) 538-6761
+
+1125 Missouri Street, Suite 302<br>
+Fairfield, CA 94533<br>
+707-558-1775 <br>
+
 <div class="newsletter">
     <a href="#" id="open-modal" class="button">Sign up for our newsletter</a>
 </div>
