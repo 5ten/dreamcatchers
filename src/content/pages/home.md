@@ -37,5 +37,5 @@ slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
 spotlight_item_title: LATEST NEWS
 spotlight_item_body: Big Day of Giving 2021!
-spotlight_item_link: 'https://dreamcatchers.blog/2021/04/29/big-day-of-giving-2020/'
+spotlight_item_link: 'https://dreamcatchers.blog/2021/04/29/big-day-of-giving-2021/'
 ---
