@@ -38,4 +38,7 @@ footer_image: dreamcatchers/footer-home
 spotlight_item_title: LATEST NEWS
 spotlight_item_body: We Did it! Big Day of Giving 2021!
 spotlight_item_link: 'https://dreamcatchers.blog/2021/05/21/we-did-it-big-day-of-giving-2021/'
+spotlight_item_title2: NOW HIRING EMPLOYMENT SPECIALISTS
+spotlight_item_body2: 'Positoins open in Sonoma, Butte and Fresno'
+spotlight_item_link2: 'https://dreamcatchers.blog/jobs/'
 ---
