@@ -45,6 +45,14 @@
             pauseOnHover: false
         });
 
+        $('.slick-slide').each(function () {
+            var $slide = $(this);
+            if ($slide.attr('aria-describedby') != undefined) { // ignore extra/cloned slides
+                $(this).attr('id', $slide.attr('aria-describedby'));
+            }
+        });
+
+
         var $contactForm = $('#contact-form');
         $contactForm.submit(function(e) {
             e.preventDefault();
