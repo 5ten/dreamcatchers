@@ -24,7 +24,7 @@ The philosophy at Dreamcatchers Empowerment Network is a client-centered approac
 
 We strive to create an environment that is participatory, goal-oriented, enjoyable, and holds trustworthiness and loyalty at the core of all we do.
 
-**DREAMCATCHERS 5-YEAR STRATEGIC PLAN**
+**DREAMCATCHERS STRATEGIC PLAN**
 
 [Click to View](https://dreamcatchers.blog/2021/11/01/dreamcatchers-strategic-plan/)
 
