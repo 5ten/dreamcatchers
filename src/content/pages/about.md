@@ -26,7 +26,7 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
 
 **DREAMCATCHERS 5-YEAR STRATEGIC PLAN**
 
-[Click to View PDF](https://dreamcatchers108.files.wordpress.com/2018/03/dreamctchers-5year-plan.pdf)
+[Click to View](https://dreamcatchers.blog/2021/11/01/dreamcatchers-strategic-plan/)
 
 ## Our Values
   
@@ -78,4 +78,3 @@ We strive to create an environment that is participatory, goal-oriented, enjoyab
   **Maria Stefanou:**<br>Ms. Stefanou has been a certified public accountant for more than 28 years. She has worked with clients in the transportation, pharmaceutical and healthcare industries. Her role as a financial manager has included the preparation and review of financial statements and tax returns, acquisitions and refinancings of real estate holdings and a liaison between her clients and the financial community. She is also a board member of Greencrest Insurance Company that provides reinsurance for workers compensation and general liability insurance. She became a board member of Dreamcatchers in 2002 because she strongly believed in their mission of empowering persons with disabilities to live independent lives.
 
   **Dr. George Woods:**<br>Dr. George Woods has been a Senior Clinical Consultant for Crestwood Behavioral Health for the past few years and served as a key member on the Pandemic Response Committee, helping to lead Dreamcatchers' response through the COVID-19 pandemic.  Dr. Woods is a Life Fellow of the American Psychiatric Association. He is the recipient of the 2018 Distinguished Alumni Award from the University of Utah Medical Center, the first psychiatrist ever selected. Dr. Woods also received the Historical Prixe from the University of Milan in July 2019. He is currently President of the International Academy of Law and Mental Health. Dr. Woods has been a lecturer and professor at the University of California, Berkeley, the University of California, Davis, and Morehouse School of Medicine, Department of Psychiatry.
-  
