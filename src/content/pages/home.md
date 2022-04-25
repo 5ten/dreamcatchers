@@ -40,4 +40,7 @@ spotlight_item_body: CARF Survey Results are in!
 spotlight_item_link: 'https://dreamcatchers.blog/2022/01/04/2021-carf-survey-results/'
 spotlight_item_title2: Big Day of Giving 2022
 spotlight_item_link2: 'https://dreamcatchers.blog/2022/04/25/big-day-of-giving-2022/'
+spotlight_item_body2: >-
+  Dreamcatchers Empowerment Network is participating once again in BIG DAY OF
+  GIVING!
 ---
