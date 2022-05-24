@@ -20,6 +20,8 @@ footer_image: dreamcatchers/footer-employers1
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
 - "It has been wonderful to work alongside and collaborate with Dreamcatchers. Staff is always receptive to receiving and communicating information about providing the best quality services to persons served." _Yessica Acosta, Clinical Supervisor, Inspiration Opportunity Transformation Team (IOT), Fresno County Department of Behavioral Health_
 - “Working with Dreamcatchers at Walgreen’s has been a great learning experience concerning the benefits of working with people with disabilities.” _Tyler, Store Manager, Walgreens_
+Team (IOT), Fresno County Department of Behavioral Health_
+- “I want to acknowledge the Dreamcatchers program. Implementing IPS Supported Employment services is not a simple undertaking, even under the best of circumstances, it’s a heavy lift.  There are a lot of things that go into putting this practice in place and Dreamcatchers has implemented IPS completely during a pandemic. It is incredible seeing the strides they have made towards implementing IPS to high fidelity.” _Rick Goscha, PhD,  Sr. Vice President, California Institute Behavioral Health Solutions (CIBHS)_
 
 ## Why Work with Dreamcatchers?
 Dreamcatchers has been providing employment services for more than 15 years and  we are happy to answer any questions you might have and provide you with references. Our services are offered throughout Butte, Contra Costa, Placer, Sacramento, Solano and Yolo counties.
