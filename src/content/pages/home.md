@@ -35,9 +35,10 @@ link_3_text: Successes & Outcomes
 link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
-spotlight_item_title: LATEST NEWS
+spotlight_item_title: Annual Client Success Recognition
 spotlight_item_link: 'https://dreamcatchers.blog/2022/11/10/annual-client-success-recognition/'
-spotlight_item_body: Annual Client Success Recognition
-spotlight_item_link2: 'https://dreamcatchers.blog/2022/01/04/2021-carf-survey-results/'
-spotlight_item_body2: CARF Survey Results are in!
+spotlight_item_body: >-
+  On October 12th, 2022, Dreamcatchers was able to gather in person to hold our
+  annual Client Success Recognition luncheon in honor of National Disability
+  Employment Awareness Month to celebrate participants that have become hired.
 ---
