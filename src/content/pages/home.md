@@ -37,7 +37,7 @@ slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
 spotlight_item_title: LATEST NEWS
 spotlight_item_link: 'https://dreamcatchers.blog/2022/11/10/annual-client-success-recognition/'
-spotlight_item_title2: CARF Survey Results are in!
 spotlight_item_body: Annual Client Success Recognition
 spotlight_item_link2: 'https://dreamcatchers.blog/2022/01/04/2021-carf-survey-results/'
+spotlight_item_body2: CARF Survey Results are in!
 ---
