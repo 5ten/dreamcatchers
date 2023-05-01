@@ -41,4 +41,7 @@ spotlight_item_body2: >-
   On October 12th, 2022, Dreamcatchers was able to gather in person to hold our
   annual Client Success Recognition luncheon in honor of National Disability
   Employment Awareness Month to celebrate participants that have become hired.
+spotlight_item_title: Big Day of Goving 2023
+spotlight_item_link: 'https://dreamcatchers.blog/2023/05/01/big-day-of-giving-2023/'
+spotlight_item_body: "Dreamcatchers Empowerment Network\_is once again participating in\_BIG DAY OF GIVING!\_"
 ---
