@@ -35,13 +35,10 @@ link_3_text: Successes & Outcomes
 link_3_url: /success-stories
 slider_image: dreamcatchers/dreamcatchers-groceryman
 footer_image: dreamcatchers/footer-home
-spotlight_item_title: Annual Client Success Recognition
-spotlight_item_link: 'https://dreamcatchers.blog/2022/11/10/annual-client-success-recognition/'
-spotlight_item_body: >-
+spotlight_item_link2: 'https://dreamcatchers.blog/2022/11/10/annual-client-success-recognition/'
+spotlight_item_title2: Annual Client Success Recognition
+spotlight_item_body2: >-
   On October 12th, 2022, Dreamcatchers was able to gather in person to hold our
   annual Client Success Recognition luncheon in honor of National Disability
   Employment Awareness Month to celebrate participants that have become hired.
-spotlight_item_link2: 'https://dreamcatchers.blog/2022/11/10/givingtuesday-is-november-29-2022/'
-spotlight_item_title2: GivingTuesday!
-spotlight_item_body2: 'We are gearing up for a very BIG day in the nonprofit world:'
 ---
