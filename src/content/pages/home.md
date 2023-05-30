@@ -42,6 +42,6 @@ spotlight_item_body2: >-
   annual Client Success Recognition luncheon in honor of National Disability
   Employment Awareness Month to celebrate participants that have become hired.
 spotlight_item_title: Big Day of Giving 2023
-spotlight_item_link: 'https://dreamcatchers.blog/2023/05/01/big-day-of-giving-2023/'
-spotlight_item_body: "Dreamcatchers Empowerment Network\_is once again participating in\_BIG DAY OF GIVING!\_"
+spotlight_item_link: 'https://dreamcatchers.blog/2023/05/30/we-did-it/'
+spotlight_item_body: Big Day of Giving is abother Big Success!
 ---
