@@ -20,7 +20,7 @@ Regina Kaiser, Executive Director, [rkaiser@dreamcatch.us](mailto:rkaiser@dreamc
 info@dreamcatch.us<br>
 707-558-1775
 
-1125 Missouri Street, Suite 302<br>
+1125 Missouri Street, Suite 203<br>
 Fairfield, CA 94533<br>
 707-558-1775 <br>
 
