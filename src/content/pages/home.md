@@ -43,5 +43,5 @@ spotlight_item_body2: >-
   Employment Awareness Month to celebrate participants that have become hired.
 spotlight_item_title: Big Day of Giving 2023
 spotlight_item_link: 'https://dreamcatchers.blog/2023/05/30/we-did-it/'
-spotlight_item_body: Big Day of Giving is abother Big Success!
+spotlight_item_body: Big Day of Giving is another Big Success!
 ---
