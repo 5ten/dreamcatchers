@@ -12,6 +12,8 @@ header_image: dreamcatchers/dreamcatchers-red
 header_image_new: /content/media/Dreamcatchers-success.jpg
 footer_image: dreamcatchers/footer-success1
 ---
+- "My time with Dreamcatchers has been an overall positive experience. I was able to push through many mental barriers holding me back in many ways. I'm most proud of finding housing, something I once thought impossible." _Daniel_
+
 - “Dreamcatchers gives people like me, with disabilities, the ability to believe in themselves and become productive in their individual life.” _Nancy_
 
 - “Thank you so much Dreamcatchers for finally letting me be a part of the American workforce and being a blessing in my life.”  _Christian_
