@@ -13,6 +13,7 @@ intro_body: >-
   agencies to provide the necessary services that offer our clients the
   opportunity to become permanently employed.
 header_image: dreamcatchers/dreamcatchers-warehouse
+header_image_new: /content/media/Dreamcatchers-employers.jpg
 footer_image: dreamcatchers/footer-employers1
 ---
 

@@ -34,6 +34,7 @@ link_3_body: Success means more when we find it together.
 link_3_text: Successes & Outcomes
 link_3_url: /success-stories
 slider_image: dreamcatchers/Dreamcatchers-home
+slider_image_new: /content/media/Dreamcatchers-home.jpg
 footer_image: dreamcatchers/footer-home
 spotlight_item_link2: 'https://dreamcatchers.blog/2022/11/10/annual-client-success-recognition/'
 spotlight_item_title2: Annual Client Success Recognition

@@ -9,6 +9,7 @@ intro_body: Success is only achieved when we work together.
 intro_link_text: Outcomes
 intro_link: /outcomes/2022
 header_image: dreamcatchers/dreamcatchers-red
+header_image_new: /content/media/Dreamcatchers-success.jpg
 footer_image: dreamcatchers/footer-success1
 ---
 - “Dreamcatchers gives people like me, with disabilities, the ability to believe in themselves and become productive in their individual life.” _Nancy_

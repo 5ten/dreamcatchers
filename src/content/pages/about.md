@@ -10,6 +10,7 @@ intro_body: >-
   community.
 intro_title: Our Vision
 header_image: dreamcatchers/dreamcatchers-cafe2
+header_image_new: /content/media/Dreamcatchers-about.jpg
 footer_image: dreamcatchers/footer-about1
 ---
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_

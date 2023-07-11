@@ -11,6 +11,7 @@ intro_body: >-
   their communities. We focus on vocational-related services as we help clients
   attain independence through successful employment.
 header_image: dreamcatchers/Dreamcatchers-programs
+header_image_new: /content/media/Dreamcatchers-programs.jpg
 footer_image: dreamcatchers/footer-programs1
 ---
 

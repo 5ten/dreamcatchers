@@ -14,6 +14,8 @@ intro_body: >-
   and self-sufficient. Thank you.
 footer_image: dreamcatchers/footer-donate2
 header_image: dreamcatchers/dreamcatchers-shop
+header_image_new: /content/media/Dreamcatchers-donate.jpg
+
 ---
 ## Ways to Donate
 All donations will be confirmed with an acknowledgment and receipt for tax purposes. For questions, please contact Dreamcatchers at [info@dreamcatch.us](mailto:info@dreamcatch.us) or 707-558-1775.
