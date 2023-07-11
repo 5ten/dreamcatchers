@@ -16,6 +16,16 @@ footer_image: dreamcatchers/footer-success1
 
 - “Dreamcatchers gives people like me, with disabilities, the ability to believe in themselves and become productive in their individual life.” _Nancy_
 
+- “I feel that everything I need to succeed in finding and securing employment is generously provided by Dreamcatchers and I would highly recommend the service to anyone eligible.” _Areyn_
+
+- “You changed my life, and I will be forever grateful. You always went above and beyond. You helped me through every step of the job-hunting process, and I know I would not have been able to get this far or have job security if not for you.” _Ilda_
+
+- “Thanks to Dreamcatchers I was able to find employment and learned how to properly keep track of and follow up with employers. You guys gave me the skills I needed to find a job and I am grateful for that.” _Cruz_
+
+- “I am so very grateful that Dreamcatchers and Dyane Wilson were brought into my nephews’ life.  Words are not enough, but thank you from the bottom of my heart. ” _Sally_
+
+- “Dreamcatchers gives people like me, with disabilities, the ability to believe in themselves and become productive in their individual life.” _Nancy_
+
 - “Thank you so much Dreamcatchers for finally letting me be a part of the American workforce and being a blessing in my life.”  _Christian_
 
 - “Super helpful! Dreamcatchers gives a lot of information about how to find a job, properly dress and act for an interview, and what questions to ask the interviewer.” _Diana_
