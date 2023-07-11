@@ -10,7 +10,7 @@ intro_body: >-
   their dreams of becoming employed, self-sufficient and productive members of
   their communities. We focus on vocational-related services as we help clients
   attain independence through successful employment.
-header_image: dreamcatchers/dreamcatchers-florist2
+header_image: dreamcatchers/Dreamcatchers-programs
 footer_image: dreamcatchers/footer-programs1
 ---
 
@@ -96,4 +96,3 @@ Dreamcatchers provides Employment Services and Paid Work Assessments through pri
 
 
 <br>
-
