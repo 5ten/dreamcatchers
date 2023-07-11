@@ -17,6 +17,7 @@ header_image_new: /content/media/Dreamcatchers-employers.jpeg
 footer_image: dreamcatchers/footer-employers1
 ---
 
+- "Dreamcatchers employees are very valuable because they are here for 9 months along with their job coach Kristen, so they learn faster and know how the store works. They are more open minded, and hungry to learn how to work." _Chad, Lead Cashier, Restore_
 - "We have had the opportunity to work with Dreamcatchers, and see first-hand the impact that they have on our community. Not only have they helped us to support our business during times of need, we’ve also been connected with their employees who have come to work for us, applied for other positions within the Core-Mark, and have helped them build their careers. We are so proud to collaborate with such an inspiring organization, and look forward to building the relationship in years to come!" _Coremark_
 - “I have had the pleasure of working with this organization and am quite familiar with the successful outcomes in their work as I we have hired 5 clients at our store.” _Shawndra, Owner, Davis Grocery Outlet (formerly Fairfield location)_
 - "It has been wonderful to work alongside and collaborate with Dreamcatchers. Staff is always receptive to receiving and communicating information about providing the best quality services to persons served." _Yessica Acosta, Clinical Supervisor, Inspiration Opportunity Transformation Team (IOT), Fresno County Department of Behavioral Health_
