@@ -36,13 +36,7 @@ link_3_url: /success-stories
 slider_image: dreamcatchers/Dreamcatchers-home
 slider_image_new: /content/media/Dreamcatchers-home.jpg
 footer_image: dreamcatchers/footer-home
-spotlight_item_link2: 'https://dreamcatchers.blog/2022/11/10/annual-client-success-recognition/'
-spotlight_item_title2: Annual Client Success Recognition
-spotlight_item_body2: >-
-  On October 12th, 2022, Dreamcatchers was able to gather in person to hold our
-  annual Client Success Recognition luncheon in honor of National Disability
-  Employment Awareness Month to celebrate participants that have become hired.
-spotlight_item_title: Big Day of Giving 2023
-spotlight_item_link: 'https://dreamcatchers.blog/2023/05/30/we-did-it/'
-spotlight_item_body: Big Day of Giving is another Big Success!
+spotlight_item_title: Giving Tuesday 2024
+spotlight_item_link: 'https://dreamcatchers.blog/2023/11/09/givingtuesday-is-november-28-2023/'
+spotlight_item_body: Please help us launch
 ---
