@@ -36,7 +36,7 @@ link_3_url: /success-stories
 slider_image: dreamcatchers/Dreamcatchers-home
 slider_image_new: /content/media/Dreamcatchers-home.jpg
 footer_image: dreamcatchers/footer-home
-spotlight_item_title: Giving Tuesday 2024
+spotlight_item_title: Giving Tuesday 2023
 spotlight_item_link: 'https://dreamcatchers.blog/2023/11/09/givingtuesday-is-november-28-2023/'
 spotlight_item_body: Please help us launch GivingTuesday with a bang!
 ---
