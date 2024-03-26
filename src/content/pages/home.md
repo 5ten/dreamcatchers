@@ -39,4 +39,7 @@ footer_image: dreamcatchers/footer-home
 spotlight_item_title: Giving Tuesday 2023
 spotlight_item_link: 'https://dreamcatchers.blog/2024/02/06/thank-you/'
 spotlight_item_body: Giving Tuesday - A Big Success!
+spotlight_item_title2: Strategic Plan
+spotlight_item_link2: 'https://dreamcatchers.blog/2024/03/26/2-year-strategic-plan/'
+spotlight_item_body2: Take a look at our updated 2-year strategoc plan
 ---
