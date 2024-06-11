@@ -41,5 +41,5 @@ spotlight_item_link: 'https://dreamcatchers.blog/2024/06/11/2024-carf-survey-res
 spotlight_item_body: Dreamcatchers Celebrating Excellent 2024 CARF Survey Results!
 spotlight_item_title2: Strategic Plan
 spotlight_item_link2: 'https://dreamcatchers.blog/2024/03/26/2-year-strategic-plan/'
-spotlight_item_body2: Take a look at our updated 2-year strategoc plan
+spotlight_item_body2: Take a look at our updated 2-year strategic plan
 ---
