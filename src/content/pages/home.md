@@ -36,9 +36,12 @@ link_3_url: /success-stories
 slider_image: dreamcatchers/Dreamcatchers-home
 slider_image_new: /content/media/Dreamcatchers-home.jpg
 footer_image: dreamcatchers/footer-home
-spotlight_item_title: CARF Results
-spotlight_item_link: 'https://dreamcatchers.blog/2024/06/11/2024-carf-survey-results/'
-spotlight_item_body: Dreamcatchers Celebrating Excellent 2024 CARF Survey Results!
+spotlight_item_title: Viva La Evolution Podcast
+spotlight_item_link: 'https://dreamcatchers.blog/2025/02/04/viva-la-evolution-podcast/'
+spotlight_item_body: >-
+  Dreamcatchers Executive Director, Regina Kaiser, sat down with Lori Ashcraft,
+  founder of Resilience Recovery Solutions Inc. to talk employment and Peer
+  Support.
 spotlight_item_title2: Strategic Plan
 spotlight_item_link2: 'https://dreamcatchers.blog/2024/03/26/2-year-strategic-plan/'
 spotlight_item_body2: Take a look at our updated 2-year strategic plan
