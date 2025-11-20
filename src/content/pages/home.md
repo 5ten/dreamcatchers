@@ -7,7 +7,6 @@ intro_body: >-
   complete support program that includes assessments, job preparation, job
   placement and job coaching to youth and adults with limitations and
   disabilities.
-published: true
 slider_title: We empower people to live and succeed in their community.
 slider_button_text: How & Why
 slider_button_link: /about-us
@@ -36,13 +35,14 @@ link_3_url: /success-stories
 slider_image: dreamcatchers/Dreamcatchers-home
 slider_image_new: /content/media/Dreamcatchers-home.jpg
 footer_image: dreamcatchers/footer-home
-spotlight_item_title: Viva La Evolution Podcast
-spotlight_item_link: 'https://dreamcatchers.blog/2025/02/04/viva-la-evolution-podcast/'
+spotlight_item_title: 2025 Annual Client Success Recognition
+spotlight_item_link: 'https://dreamcatchers.blog/2025/11/20/2025-annual-client-success-recognition/'
 spotlight_item_body: >-
-  Dreamcatchers Executive Director, Regina Kaiser, sat down with Lori Ashcraft,
-  founder of Resilience Recovery Solutions Inc. to talk employment and Peer
-  Support.
-spotlight_item_title2: Strategic Plan
-spotlight_item_link2: 'https://dreamcatchers.blog/2024/03/26/2-year-strategic-plan/'
-spotlight_item_body2: Take a look at our updated 2-year strategic plan
+  On October 23rd, 2025, Dreamcatchers held their 10th annual Client Success
+  Recognition luncheon in honor of National Disability Employment Awareness
+  Month to celebrate participants that have become hired.
+spotlight_item_title2: 'Giving Tuesday is Dec. 2, 2025'
+spotlight_item_link2: 'https://dreamcatchers.blog/2025/11/20/givingtuesday-is-december-2-2025/'
+spotlight_item_body2: Get involved! Please help us launch
+published: true
 ---
