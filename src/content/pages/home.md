@@ -43,6 +43,6 @@ spotlight_item_body: >-
   Month to celebrate participants that have become hired.
 spotlight_item_title2: 'Giving Tuesday is Dec. 2, 2025'
 spotlight_item_link2: 'https://dreamcatchers.blog/2025/11/20/givingtuesday-is-december-2-2025/'
-spotlight_item_body2: Get involved! Please help us launch
+spotlight_item_body2: Get involved! Please help us launch Giving Tuesday on December 2 with a bang!
 published: true
 ---
