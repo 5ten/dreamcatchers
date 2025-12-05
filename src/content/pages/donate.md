@@ -15,7 +15,6 @@ intro_body: >-
 footer_image: dreamcatchers/footer-donate2
 header_image: dreamcatchers/dreamcatchers-shop
 header_image_new: /content/media/Dreamcatchers-donate.jpg
-
 ---
 ## Ways to Donate
 All donations will be confirmed with an acknowledgment and receipt for tax purposes. For questions, please contact Dreamcatchers at [info@dreamcatch.us](mailto:info@dreamcatch.us) or 707-558-1775.
@@ -34,7 +33,5 @@ All donations will be confirmed with an acknowledgment and receipt for tax purpo
 ### Thank You
 Thank you to our recent donors: Thank you to our generous donors for their contributions to Dreamcatchers! Their donations make a huge difference in our clients’ lives and allow Dreamcatchers to continue this important work.
 
- - ![drm-partners-cfg.png](/content/media/drm-partners-cfg.png)
- - ![drm-partners-commercial.png](/content/media/drm-partners-commercial.png)
  - ![drm-partners-wells.png](/content/media/drm-partners-wells.png)
  - ![drm-partners-safeway.png](/content/media/drm-partners-safeway.png)
